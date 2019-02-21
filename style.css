@@ -1,0 +1,31 @@
+  body {background-color: grey;}
+
+   .axis path,
+   .axis line {
+     stroke-width: 1;
+     fill: none;
+   }
+   
+   path {
+     fill: none;
+     stroke-width: 1.5;
+     clip-path: url(#clip);
+   }
+   
+   div.tooltip {
+     position: absolute;
+     text-align: center;
+     padding: 5px;
+     font: 12px sans-serif;
+     background: black;
+     color: white;
+     border: 1px;
+     border-radius: 4px;
+     pointer-events: none;
+   }
+   
+   button {
+     position: relative;
+     left: 80px;
+     bottom: 230px;
+   }
