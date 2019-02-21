@@ -1,0 +1,2861 @@
+year,state,gdp
+1963,National Average,607007.8
+1964,National Average,650513
+1965,National Average,704697.1
+1966,National Average,767075
+1967,National Average,811782.2
+1968,National Average,887568.5
+1969,National Average,962901.7
+1970,National Average,1012299.3
+1971,National Average,1097173.4
+1972,National Average,1210292.4
+1973,National Average,1356499.7
+1974,National Average,1472024.2
+1975,National Average,1602227.6
+1976,National Average,1780497.3
+1977,National Average,1986407.7
+1978,National Average,2243230.1
+1979,National Average,2489416.5
+1980,National Average,2713932.7
+1981,National Average,3057318.1
+1982,National Average,3211369.7
+1983,National Average,3445371.9
+1984,National Average,3853668
+1985,National Average,4126663.9
+1986,National Average,4340812.6
+1987,National Average,4649020.4
+1988,National Average,5053003.3
+1989,National Average,5366079.6
+1990,National Average,5651746.7
+1991,National Average,5842664.7
+1992,National Average,6167644.2
+1993,National Average,6467697.5
+1994,National Average,6912843.5
+1995,National Average,7299371.5
+1996,National Average,7749965.4
+1997,National Average,8284431.7
+1998,National Average,9062817
+1999,National Average,9630663
+2000,National Average,10252347
+2001,National Average,10581822
+2002,National Average,10936418
+2003,National Average,11458246
+2004,National Average,12213730
+2005,National Average,13036637
+2006,National Average,13814609
+2007,National Average,14451860
+2008,National Average,14712845
+2009,National Average,14448932
+2010,National Average,14992052
+2011,National Average,15542582
+2012,National Average,16197007
+2013,National Average,16784851
+2014,National Average,17521747
+2015,National Average,18219297
+2016,National Average,18707189
+2017,National Average,19485394
+1963,Alabama,7343.1
+1964,Alabama,8219.6
+1965,Alabama,8994.3
+1966,Alabama,9847.2
+1967,Alabama,10052.7
+1968,Alabama,10976.6
+1969,Alabama,11865.9
+1970,Alabama,12474.8
+1971,Alabama,13623.6
+1972,Alabama,15356.3
+1973,Alabama,17428.4
+1974,Alabama,19453.6
+1975,Alabama,21346
+1976,Alabama,24324
+1977,Alabama,26724.9
+1978,Alabama,30546.5
+1979,Alabama,33711.9
+1980,Alabama,36142.5
+1981,Alabama,40257.4
+1982,Alabama,41778.1
+1983,Alabama,45678.6
+1984,Alabama,50010.1
+1985,Alabama,53823.6
+1986,Alabama,56133.8
+1987,Alabama,60751.8
+1988,Alabama,66007.5
+1989,Alabama,68394.4
+1990,Alabama,71610
+1991,Alabama,76043.3
+1992,Alabama,81260.1
+1993,Alabama,84562.8
+1994,Alabama,90098.5
+1995,Alabama,95819.1
+1996,Alabama,100145.9
+1997,Alabama,104805.2
+1998,Alabama,109404.3
+1999,Alabama,115030.9
+2000,Alabama,119242.4
+2001,Alabama,122449.3
+2002,Alabama,127792.3
+2003,Alabama,133739.2
+2004,Alabama,146524.7
+2005,Alabama,155970.4
+2006,Alabama,163853.6
+2007,Alabama,169678.4
+2008,Alabama,172686.8
+2009,Alabama,168348
+2010,Alabama,174753
+2011,Alabama,181349.8
+2012,Alabama,186299
+2013,Alabama,191481
+2014,Alabama,194059.7
+2015,Alabama,200317.5
+2016,Alabama,203354.7
+2017,Alabama,211196.5
+1963,Alaska,1083.1
+1964,Alaska,1229.9
+1965,Alaska,1374.3
+1966,Alaska,1494
+1967,Alaska,1642.8
+1968,Alaska,1899.5
+1969,Alaska,2073.5
+1970,Alaska,2359.2
+1971,Alaska,2539.5
+1972,Alaska,2742.6
+1973,Alaska,3040.7
+1974,Alaska,3998.9
+1975,Alaska,6220.1
+1976,Alaska,7470.3
+1977,Alaska,7544.3
+1978,Alaska,9129.8
+1979,Alaska,10891.4
+1980,Alaska,15281.8
+1981,Alaska,21823.6
+1982,Alaska,23460.6
+1983,Alaska,22591.2
+1984,Alaska,23787.5
+1985,Alaska,26142.5
+1986,Alaska,19180.7
+1987,Alaska,22925.4
+1988,Alaska,21270
+1989,Alaska,23453.3
+1990,Alaska,25039.5
+1991,Alaska,22282.5
+1992,Alaska,22752.8
+1993,Alaska,23284.2
+1994,Alaska,23604.7
+1995,Alaska,25448.8
+1996,Alaska,26736.9
+1997,Alaska,27581.3
+1998,Alaska,24170.4
+1999,Alaska,24732.6
+2000,Alaska,26778.3
+2001,Alaska,28420.4
+2002,Alaska,29605.3
+2003,Alaska,31799.7
+2004,Alaska,34970.7
+2005,Alaska,39774.8
+2006,Alaska,44435.3
+2007,Alaska,48972.6
+2008,Alaska,54752.4
+2009,Alaska,49585.9
+2010,Alaska,52882.5
+2011,Alaska,56259.9
+2012,Alaska,57670.1
+2013,Alaska,56622.8
+2014,Alaska,55547.4
+2015,Alaska,50636.1
+2016,Alaska,49380.9
+2017,Alaska,51479
+1963,Arizona,4482.1
+1964,Arizona,4817
+1965,Arizona,5027.5
+1966,Arizona,5527.3
+1967,Arizona,5783.4
+1968,Arizona,6593.4
+1969,Arizona,7563.2
+1970,Arizona,8569
+1971,Arizona,9649
+1972,Arizona,11291.9
+1973,Arizona,13329.8
+1974,Arizona,14611.3
+1975,Arizona,15284.3
+1976,Arizona,16970
+1977,Arizona,19609.2
+1978,Arizona,23278.5
+1979,Arizona,27495.4
+1980,Arizona,30764.3
+1981,Arizona,34268.6
+1982,Arizona,35793.7
+1983,Arizona,39774
+1984,Arizona,46135
+1985,Arizona,50708.7
+1986,Arizona,55880.9
+1987,Arizona,60046.7
+1988,Arizona,64944.6
+1989,Arizona,67895.5
+1990,Arizona,70631.7
+1991,Arizona,73358.3
+1992,Arizona,82682.2
+1993,Arizona,89299.8
+1994,Arizona,100374.2
+1995,Arizona,109905.7
+1996,Arizona,119530.2
+1997,Arizona,129279.1
+1998,Arizona,143392.4
+1999,Arizona,155344.5
+2000,Arizona,164611.6
+2001,Arizona,171474.2
+2002,Arizona,179413.3
+2003,Arizona,192751.2
+2004,Arizona,205420.8
+2005,Arizona,228231.2
+2006,Arizona,248230.7
+2007,Arizona,262322
+2008,Arizona,259366.7
+2009,Arizona,243929.4
+2010,Arizona,248210
+2011,Arizona,257947.8
+2012,Arizona,268288.8
+2013,Arizona,275199.1
+2014,Arizona,284573.8
+2015,Arizona,297116.4
+2016,Arizona,310928.9
+2017,Arizona,326445.8
+1963,Arkansas,3791.2
+1964,Arkansas,4147.9
+1965,Arkansas,4445.8
+1966,Arkansas,4867.8
+1967,Arkansas,5131.7
+1968,Arkansas,5704.3
+1969,Arkansas,6231.9
+1970,Arkansas,6666.6
+1971,Arkansas,7440.2
+1972,Arkansas,8494.1
+1973,Arkansas,9886.4
+1974,Arkansas,10865.2
+1975,Arkansas,11942
+1976,Arkansas,13704.4
+1977,Arkansas,15182.3
+1978,Arkansas,17477.1
+1979,Arkansas,19099.1
+1980,Arkansas,20275.6
+1981,Arkansas,22890.8
+1982,Arkansas,23527
+1983,Arkansas,25291.9
+1984,Arkansas,28464.7
+1985,Arkansas,29325.7
+1986,Arkansas,30798.5
+1987,Arkansas,32663.6
+1988,Arkansas,35004.5
+1989,Arkansas,37127.6
+1990,Arkansas,38679.8
+1991,Arkansas,41571.7
+1992,Arkansas,45017.8
+1993,Arkansas,47566
+1994,Arkansas,51415.9
+1995,Arkansas,54611.8
+1996,Arkansas,57976.4
+1997,Arkansas,60332.9
+1998,Arkansas,62442.5
+1999,Arkansas,66816.7
+2000,Arkansas,68770
+2001,Arkansas,70601.4
+2002,Arkansas,73950.4
+2003,Arkansas,78218.8
+2004,Arkansas,84624.5
+2005,Arkansas,89610
+2006,Arkansas,94384.5
+2007,Arkansas,96948.2
+2008,Arkansas,98955.3
+2009,Arkansas,97058.9
+2010,Arkansas,101690
+2011,Arkansas,106085.4
+2012,Arkansas,108745.2
+2013,Arkansas,114251.5
+2014,Arkansas,117339.1
+2015,Arkansas,118435.8
+2016,Arkansas,119947.3
+2017,Arkansas,122703.5
+1963,California,67808.6
+1964,California,73512.7
+1965,California,78252.7
+1966,California,84627.5
+1967,California,89570.7
+1968,California,98721
+1969,California,106629.3
+1970,California,111984.6
+1971,California,120372.3
+1972,California,133142.6
+1973,California,147230.7
+1974,California,161815.4
+1975,California,178393.9
+1976,California,197346.7
+1977,California,229592
+1978,California,262802.6
+1979,California,293491.4
+1980,California,327958.5
+1981,California,368808.4
+1982,California,393787.7
+1983,California,426143.2
+1984,California,482166.1
+1985,California,523905.8
+1986,California,563081.9
+1987,California,615359.5
+1988,California,671575
+1989,California,722978.9
+1990,California,773460
+1991,California,790045.6
+1992,California,807358.4
+1993,California,826446.9
+1994,California,861360
+1995,California,911576.8
+1996,California,964185.5
+1997,California,1037091.2
+1998,California,1147841.6
+1999,California,1247093
+2000,California,1366561
+2001,California,1384111.2
+2002,California,1436430.9
+2003,California,1527294
+2004,California,1632216.9
+2005,California,1753866.2
+2006,California,1874737.3
+2007,California,1955856
+2008,California,1990678.2
+2009,California,1920061.8
+2010,California,1974614.5
+2011,California,2050056.8
+2012,California,2144497.3
+2013,California,2262771.2
+2014,California,2396552.1
+2015,California,2557131.9
+2016,California,2665348.9
+2017,California,2797600.9
+1963,Colorado,5925.2
+1964,Colorado,6227.9
+1965,Colorado,6631.3
+1966,Colorado,7274.8
+1967,Colorado,7665.8
+1968,Colorado,8540.1
+1969,Colorado,9479.9
+1970,Colorado,10431.4
+1971,Colorado,11998
+1972,Colorado,13784
+1973,Colorado,16119.9
+1974,Colorado,17852.3
+1975,Colorado,20165.9
+1976,Colorado,22253.4
+1977,Colorado,25428.4
+1978,Colorado,29398.1
+1979,Colorado,33784.7
+1980,Colorado,38332.3
+1981,Colorado,43974.1
+1982,Colorado,47654
+1983,Colorado,50717.6
+1984,Colorado,56230
+1985,Colorado,59640.7
+1986,Colorado,60969.7
+1987,Colorado,63919.8
+1988,Colorado,67757.3
+1989,Colorado,71179.2
+1990,Colorado,75570.5
+1991,Colorado,79766.2
+1992,Colorado,87302.1
+1993,Colorado,95658.7
+1994,Colorado,104506.8
+1995,Colorado,112707.9
+1996,Colorado,121081
+1997,Colorado,133203.8
+1998,Colorado,150381.7
+1999,Colorado,164226.8
+2000,Colorado,180605.5
+2001,Colorado,187571.9
+2002,Colorado,190962.8
+2003,Colorado,196483.7
+2004,Colorado,203980.2
+2005,Colorado,219907.9
+2006,Colorado,231205.9
+2007,Colorado,246043.5
+2008,Colorado,255566.8
+2009,Colorado,248593.6
+2010,Colorado,255140.5
+2011,Colorado,264431.6
+2012,Colorado,273519.5
+2013,Colorado,288305.2
+2014,Colorado,306362
+2015,Colorado,317977.9
+2016,Colorado,328513.8
+2017,Colorado,345233.1
+1963,Connecticut,9876.7
+1964,Connecticut,10550.8
+1965,Connecticut,11455.5
+1966,Connecticut,12812.3
+1967,Connecticut,13595.1
+1968,Connecticut,14303.2
+1969,Connecticut,15627.5
+1970,Connecticut,16347
+1971,Connecticut,17128.8
+1972,Connecticut,18798.6
+1973,Connecticut,20808.2
+1974,Connecticut,22502.4
+1975,Connecticut,23975.8
+1976,Connecticut,26233.5
+1977,Connecticut,29597.5
+1978,Connecticut,33230.9
+1979,Connecticut,36854.5
+1980,Connecticut,40770.4
+1981,Connecticut,45641.6
+1982,Connecticut,50196.2
+1983,Connecticut,55528.1
+1984,Connecticut,63617.9
+1985,Connecticut,69231.3
+1986,Connecticut,75305.4
+1987,Connecticut,82983.7
+1988,Connecticut,90706.7
+1989,Connecticut,95830.7
+1990,Connecticut,100169
+1991,Connecticut,101474.7
+1992,Connecticut,105758.8
+1993,Connecticut,107680
+1994,Connecticut,113115.1
+1995,Connecticut,123212.2
+1996,Connecticut,129111.3
+1997,Connecticut,140279.6
+1998,Connecticut,145495.4
+1999,Connecticut,152338.1
+2000,Connecticut,165898.7
+2001,Connecticut,173127.2
+2002,Connecticut,176208.2
+2003,Connecticut,181339.7
+2004,Connecticut,198662.4
+2005,Connecticut,208766.2
+2006,Connecticut,222889.1
+2007,Connecticut,237542.7
+2008,Connecticut,240910.9
+2009,Connecticut,236393.2
+2010,Connecticut,237653.4
+2011,Connecticut,236523.7
+2012,Connecticut,243801
+2013,Connecticut,246632
+2014,Connecticut,248954.2
+2015,Connecticut,259776
+2016,Connecticut,263239.9
+2017,Connecticut,264509.9
+1963,Delaware,1885
+1964,Delaware,2068.2
+1965,Delaware,2313.4
+1966,Delaware,2482
+1967,Delaware,2605.1
+1968,Delaware,2884.1
+1969,Delaware,3068.6
+1970,Delaware,3165.8
+1971,Delaware,3623.4
+1972,Delaware,3984.2
+1973,Delaware,4516.3
+1974,Delaware,4737.1
+1975,Delaware,5025.5
+1976,Delaware,5470.1
+1977,Delaware,6055.9
+1978,Delaware,6747.4
+1979,Delaware,7304.2
+1980,Delaware,7898.2
+1981,Delaware,8838.8
+1982,Delaware,9498.5
+1983,Delaware,10611
+1984,Delaware,11925.2
+1985,Delaware,13092.4
+1986,Delaware,14138.1
+1987,Delaware,15567.9
+1988,Delaware,16887.4
+1989,Delaware,18900.3
+1990,Delaware,19928.3
+1991,Delaware,21746
+1992,Delaware,22907.1
+1993,Delaware,23508.6
+1994,Delaware,25637.9
+1995,Delaware,27720.9
+1996,Delaware,29156.5
+1997,Delaware,31450.2
+1998,Delaware,36783.2
+1999,Delaware,40363.6
+2000,Delaware,43389.4
+2001,Delaware,46448.3
+2002,Delaware,45757.9
+2003,Delaware,47761.6
+2004,Delaware,51449.4
+2005,Delaware,52154.1
+2006,Delaware,55067.4
+2007,Delaware,56278.5
+2008,Delaware,54787.5
+2009,Delaware,56871.2
+2010,Delaware,57447.4
+2011,Delaware,60357.4
+2012,Delaware,61975.8
+2013,Delaware,60666.1
+2014,Delaware,67178.9
+2015,Delaware,70917.7
+2016,Delaware,70484.1
+2017,Delaware,72461.3
+1963,District of Columbia,5136.6
+1964,District of Columbia,5552.5
+1965,District of Columbia,6037.4
+1966,District of Columbia,6454.3
+1967,District of Columbia,7183.1
+1968,District of Columbia,7748.9
+1969,District of Columbia,8095.8
+1970,District of Columbia,8558.9
+1971,District of Columbia,9180
+1972,District of Columbia,9895.6
+1973,District of Columbia,10400
+1974,District of Columbia,11424.4
+1975,District of Columbia,12711.5
+1976,District of Columbia,13945.3
+1977,District of Columbia,15580.5
+1978,District of Columbia,16953
+1979,District of Columbia,18417
+1980,District of Columbia,19862.2
+1981,District of Columbia,21739.9
+1982,District of Columbia,22958.1
+1983,District of Columbia,24572.7
+1984,District of Columbia,26583.8
+1985,District of Columbia,28534.5
+1986,District of Columbia,30078.6
+1987,District of Columbia,32129.3
+1988,District of Columbia,35225.5
+1989,District of Columbia,37469.1
+1990,District of Columbia,39688.4
+1991,District of Columbia,41430
+1992,District of Columbia,43186.5
+1993,District of Columbia,45356.2
+1994,District of Columbia,46654.8
+1995,District of Columbia,47093.9
+1996,District of Columbia,47822.9
+1997,District of Columbia,49701.8
+1998,District of Columbia,54879.8
+1999,District of Columbia,58832.1
+2000,District of Columbia,61095.5
+2001,District of Columbia,65565.9
+2002,District of Columbia,70054.7
+2003,District of Columbia,74090.3
+2004,District of Columbia,80471.3
+2005,District of Columbia,85304.9
+2006,District of Columbia,88517.2
+2007,District of Columbia,93970
+2008,District of Columbia,99478.5
+2009,District of Columbia,100894.6
+2010,District of Columbia,106120.3
+2011,District of Columbia,110076.2
+2012,District of Columbia,112736.5
+2013,District of Columbia,114891
+2014,District of Columbia,119994.4
+2015,District of Columbia,125434.6
+2016,District of Columbia,130071.6
+2017,District of Columbia,135768.3
+1963,Florida,14684
+1964,Florida,16024.6
+1965,Florida,17444.5
+1966,Florida,19181.7
+1967,Florida,21122.9
+1968,Florida,23792.8
+1969,Florida,27427.5
+1970,Florida,30691.1
+1971,Florida,34161
+1972,Florida,39708.7
+1973,Florida,46972.7
+1974,Florida,52123.3
+1975,Florida,55288.1
+1976,Florida,58728.8
+1977,Florida,65272.2
+1978,Florida,75681
+1979,Florida,86263
+1980,Florida,97898.8
+1981,Florida,112166.8
+1982,Florida,122281.9
+1983,Florida,136768.3
+1984,Florida,155993.5
+1985,Florida,170893.8
+1986,Florida,185852
+1987,Florida,204816.4
+1988,Florida,224848.2
+1989,Florida,241633.2
+1990,Florida,256589.3
+1991,Florida,267669.1
+1992,Florida,284672.6
+1993,Florida,304403
+1994,Florida,327167.4
+1995,Florida,346951.2
+1996,Florida,370912.5
+1997,Florida,393074.5
+1998,Florida,430064.2
+1999,Florida,458318.6
+2000,Florida,489488.1
+2001,Florida,516689.6
+2002,Florida,548540.3
+2003,Florida,583725.7
+2004,Florida,635525.5
+2005,Florida,696741.1
+2006,Florida,744464.2
+2007,Florida,768661
+2008,Florida,750501.6
+2009,Florida,724582.2
+2010,Florida,737791.1
+2011,Florida,746787.5
+2012,Florida,769309.1
+2013,Florida,800704.1
+2014,Florida,839706
+2015,Florida,895004.2
+2016,Florida,938086.1
+2017,Florida,976385.5
+1963,Georgia,10318.3
+1964,Georgia,11252.6
+1965,Georgia,12519.4
+1966,Georgia,13807.8
+1967,Georgia,14711
+1968,Georgia,16424.1
+1969,Georgia,18081.7
+1970,Georgia,19365
+1971,Georgia,21570.3
+1972,Georgia,24609.8
+1973,Georgia,28225.9
+1974,Georgia,30377.9
+1975,Georgia,31994.6
+1976,Georgia,36424.6
+1977,Georgia,40785.3
+1978,Georgia,46153.9
+1979,Georgia,51550
+1980,Georgia,56228.6
+1981,Georgia,63750.7
+1982,Georgia,68451.2
+1983,Georgia,76737.6
+1984,Georgia,88466.4
+1985,Georgia,98222.5
+1986,Georgia,108088.9
+1987,Georgia,117032.8
+1988,Georgia,126565.2
+1989,Georgia,133793.9
+1990,Georgia,140646.1
+1991,Georgia,147759.8
+1992,Georgia,160061.8
+1993,Georgia,171658.9
+1994,Georgia,187995.6
+1995,Georgia,203397.1
+1996,Georgia,219989
+1997,Georgia,235200.1
+1998,Georgia,264894.9
+1999,Georgia,288994.3
+2000,Georgia,307611.6
+2001,Georgia,318753
+2002,Georgia,326929.6
+2003,Georgia,340410.6
+2004,Georgia,364255.2
+2005,Georgia,386785
+2006,Georgia,402144.6
+2007,Georgia,415131.9
+2008,Georgia,412911.9
+2009,Georgia,407024.5
+2010,Georgia,416883.8
+2011,Georgia,429574
+2012,Georgia,444132.2
+2013,Georgia,460585.1
+2014,Georgia,484915.4
+2015,Georgia,513100.5
+2016,Georgia,538360.6
+2017,Georgia,563607.6
+1963,Hawaii,2366.8
+1964,Hawaii,2571.5
+1965,Hawaii,2848.8
+1966,Hawaii,3109.9
+1967,Hawaii,3307.3
+1968,Hawaii,3721.5
+1969,Hawaii,4262
+1970,Hawaii,4812.6
+1971,Hawaii,5187.7
+1972,Hawaii,5624
+1973,Hawaii,6352.6
+1974,Hawaii,7143.3
+1975,Hawaii,8172.7
+1976,Hawaii,8526.1
+1977,Hawaii,9440.9
+1978,Hawaii,10508.5
+1979,Hawaii,11869
+1980,Hawaii,13380.3
+1981,Hawaii,14639.5
+1982,Hawaii,15740.4
+1983,Hawaii,17260.3
+1984,Hawaii,19132.3
+1985,Hawaii,20721.7
+1986,Hawaii,22437
+1987,Hawaii,24272.6
+1988,Hawaii,26799
+1989,Hawaii,29427.2
+1990,Hawaii,32534.3
+1991,Hawaii,34356.7
+1992,Hawaii,36129.5
+1993,Hawaii,36732.4
+1994,Hawaii,37394.9
+1995,Hawaii,37763.1
+1996,Hawaii,38124.6
+1997,Hawaii,39064.1
+1998,Hawaii,37624.4
+1999,Hawaii,39250.4
+2000,Hawaii,41500.2
+2001,Hawaii,42894.3
+2002,Hawaii,45447.1
+2003,Hawaii,48929.1
+2004,Hawaii,53761.8
+2005,Hawaii,58667.9
+2006,Hawaii,62365
+2007,Hawaii,65233.5
+2008,Hawaii,66864.7
+2009,Hawaii,65692
+2010,Hawaii,68196.9
+2011,Hawaii,70482.6
+2012,Hawaii,73582.7
+2013,Hawaii,75788.3
+2014,Hawaii,77972.5
+2015,Hawaii,82739.9
+2016,Hawaii,85648.1
+2017,Hawaii,88447.9
+1963,Idaho,1841.1
+1964,Idaho,1946.4
+1965,Idaho,2197.3
+1966,Idaho,2272.5
+1967,Idaho,2334.5
+1968,Idaho,2497.1
+1969,Idaho,2749.9
+1970,Idaho,3014.9
+1971,Idaho,3265.3
+1972,Idaho,3773
+1973,Idaho,4481.4
+1974,Idaho,5186.2
+1975,Idaho,5834.7
+1976,Idaho,6590.7
+1977,Idaho,7205.9
+1978,Idaho,8449.7
+1979,Idaho,9285.9
+1980,Idaho,9915.8
+1981,Idaho,10677.4
+1982,Idaho,10689.3
+1983,Idaho,11834.2
+1984,Idaho,12585.9
+1985,Idaho,13043.9
+1986,Idaho,13220.2
+1987,Idaho,13996
+1988,Idaho,15285.3
+1989,Idaho,16908.6
+1990,Idaho,18004.2
+1991,Idaho,18851.7
+1992,Idaho,20631.6
+1993,Idaho,23099.8
+1994,Idaho,25455.5
+1995,Idaho,27762.4
+1996,Idaho,28914.6
+1997,Idaho,30311.7
+1998,Idaho,30983.9
+1999,Idaho,34138.2
+2000,Idaho,37992.8
+2001,Idaho,37384.1
+2002,Idaho,38715.3
+2003,Idaho,40341.8
+2004,Idaho,43739
+2005,Idaho,47962.9
+2006,Idaho,50976.3
+2007,Idaho,53852.1
+2008,Idaho,55546
+2009,Idaho,53775
+2010,Idaho,55170.7
+2011,Idaho,56488.1
+2012,Idaho,57764.4
+2013,Idaho,61017.7
+2014,Idaho,63614.9
+2015,Idaho,66273.6
+2016,Idaho,69203.4
+2017,Idaho,72294.2
+1963,Illinois,39513.8
+1964,Illinois,42478.4
+1965,Illinois,45977.7
+1966,Illinois,50435.4
+1967,Illinois,52816.8
+1968,Illinois,56331.2
+1969,Illinois,60840
+1970,Illinois,62763.4
+1971,Illinois,67378.9
+1972,Illinois,73501
+1973,Illinois,81285.5
+1974,Illinois,88069.7
+1975,Illinois,95879.7
+1976,Illinois,104819.3
+1977,Illinois,115076.9
+1978,Illinois,128121.9
+1979,Illinois,139252.7
+1980,Illinois,145264.4
+1981,Illinois,159649.3
+1982,Illinois,164266.6
+1983,Illinois,173119.3
+1984,Illinois,194244.3
+1985,Illinois,206281.1
+1986,Illinois,218695.6
+1987,Illinois,231210.1
+1988,Illinois,252196.8
+1989,Illinois,266607.9
+1990,Illinois,279019.1
+1991,Illinois,288473.5
+1992,Illinois,306236.3
+1993,Illinois,320078.9
+1994,Illinois,347971.5
+1995,Illinois,364450.7
+1996,Illinois,383504.1
+1997,Illinois,408047.8
+1998,Illinois,436166.7
+1999,Illinois,459322.1
+2000,Illinois,487212.7
+2001,Illinois,502260.3
+2002,Illinois,514063.8
+2003,Illinois,529455.4
+2004,Illinois,558748.4
+2005,Illinois,586693.9
+2006,Illinois,621859.9
+2007,Illinois,647862.1
+2008,Illinois,646366.6
+2009,Illinois,644690.1
+2010,Illinois,662637.8
+2011,Illinois,688288.9
+2012,Illinois,720702.3
+2013,Illinois,739627.9
+2014,Illinois,765910.2
+2015,Illinois,791625.9
+2016,Illinois,803680.2
+2017,Illinois,822539.6
+1963,Indiana,15636.3
+1964,Indiana,16723
+1965,Indiana,18518.5
+1966,Indiana,20048.9
+1967,Indiana,20951.1
+1968,Indiana,22646
+1969,Indiana,24212.2
+1970,Indiana,24545.7
+1971,Indiana,26882.3
+1972,Indiana,29953.9
+1973,Indiana,33972.2
+1974,Indiana,35605.7
+1975,Indiana,37677.3
+1976,Indiana,43774.8
+1977,Indiana,47901.4
+1978,Indiana,53729.2
+1979,Indiana,57917.5
+1980,Indiana,58870.5
+1981,Indiana,64724.3
+1982,Indiana,64982
+1983,Indiana,69334.8
+1984,Indiana,78858.8
+1985,Indiana,82010.6
+1986,Indiana,86437.5
+1987,Indiana,91650.5
+1988,Indiana,99492.5
+1989,Indiana,107198.7
+1990,Indiana,110859.6
+1991,Indiana,114637
+1992,Indiana,124714.3
+1993,Indiana,132108.2
+1994,Indiana,143335.2
+1995,Indiana,150403.9
+1996,Indiana,158350.1
+1997,Indiana,167366.3
+1998,Indiana,184582.1
+1999,Indiana,193100.6
+2000,Indiana,203052.9
+2001,Indiana,204581.1
+2002,Indiana,212430.3
+2003,Indiana,223495.3
+2004,Indiana,236935.8
+2005,Indiana,243738.3
+2006,Indiana,255054.6
+2007,Indiana,269053.6
+2008,Indiana,272845.6
+2009,Indiana,261238.3
+2010,Indiana,280120.7
+2011,Indiana,288749.1
+2012,Indiana,297552.7
+2013,Indiana,308681.7
+2014,Indiana,325040.6
+2015,Indiana,330026.5
+2016,Indiana,338711
+2017,Indiana,352272.7
+1963,Iowa,7921.2
+1964,Iowa,8349.6
+1965,Iowa,9196.3
+1966,Iowa,10202.2
+1967,Iowa,10617.1
+1968,Iowa,11272.9
+1969,Iowa,12331.6
+1970,Iowa,12957.3
+1971,Iowa,13666.2
+1972,Iowa,15311.4
+1973,Iowa,18502.3
+1974,Iowa,19341.4
+1975,Iowa,21992.9
+1976,Iowa,24436.5
+1977,Iowa,27011.4
+1978,Iowa,30763.4
+1979,Iowa,33496
+1980,Iowa,34582.3
+1981,Iowa,38272.1
+1982,Iowa,37289.3
+1983,Iowa,37480.8
+1984,Iowa,41264
+1985,Iowa,42431
+1986,Iowa,43225.9
+1987,Iowa,45282.8
+1988,Iowa,49088.5
+1989,Iowa,52907.1
+1990,Iowa,56121.5
+1991,Iowa,57944.2
+1992,Iowa,61870.3
+1993,Iowa,63385.5
+1994,Iowa,70161
+1995,Iowa,73136.6
+1996,Iowa,78819.2
+1997,Iowa,83113.2
+1998,Iowa,84546.9
+1999,Iowa,87662.3
+2000,Iowa,93028.6
+2001,Iowa,94770.8
+2002,Iowa,98976.1
+2003,Iowa,105073.5
+2004,Iowa,116652.5
+2005,Iowa,122224
+2006,Iowa,126884.2
+2007,Iowa,136977
+2008,Iowa,136553.6
+2009,Iowa,136251.2
+2010,Iowa,141482
+2011,Iowa,147227
+2012,Iowa,157250.8
+2013,Iowa,160299.8
+2014,Iowa,171512.5
+2015,Iowa,177875.4
+2016,Iowa,180179.3
+2017,Iowa,183929.8
+1963,Kansas,6134.5
+1964,Kansas,6418.2
+1965,Kansas,6831.2
+1966,Kansas,7400.6
+1967,Kansas,7760.4
+1968,Kansas,8487.3
+1969,Kansas,9165.7
+1970,Kansas,9754.8
+1971,Kansas,10824.5
+1972,Kansas,12126.5
+1973,Kansas,13999.6
+1974,Kansas,15063.3
+1975,Kansas,16854.8
+1976,Kansas,18953.1
+1977,Kansas,20538.6
+1978,Kansas,22824
+1979,Kansas,26300.4
+1980,Kansas,28298.2
+1981,Kansas,31978.3
+1982,Kansas,33491.4
+1983,Kansas,35257.1
+1984,Kansas,38442.1
+1985,Kansas,40658.3
+1986,Kansas,41794.8
+1987,Kansas,44163.8
+1988,Kansas,46698.1
+1989,Kansas,48814
+1990,Kansas,51873.7
+1991,Kansas,53980.7
+1992,Kansas,56901.7
+1993,Kansas,58953.2
+1994,Kansas,63304.1
+1995,Kansas,65281.9
+1996,Kansas,69616.1
+1997,Kansas,74146.8
+1998,Kansas,78478.8
+1999,Kansas,81853
+2000,Kansas,85853.2
+2001,Kansas,88380.4
+2002,Kansas,90949.3
+2003,Kansas,94603.5
+2004,Kansas,97676.4
+2005,Kansas,103936.6
+2006,Kansas,112650.3
+2007,Kansas,122453.3
+2008,Kansas,127682.4
+2009,Kansas,124340.7
+2010,Kansas,127744.8
+2011,Kansas,135315.3
+2012,Kansas,140477.8
+2013,Kansas,143220.7
+2014,Kansas,148276.1
+2015,Kansas,151679.9
+2016,Kansas,155580.4
+2017,Kansas,159108.2
+1963,Kentucky,8355.1
+1964,Kentucky,8773.9
+1965,Kentucky,9518.1
+1966,Kentucky,10378
+1967,Kentucky,11041.2
+1968,Kentucky,12212.4
+1969,Kentucky,13206.2
+1970,Kentucky,13942.7
+1971,Kentucky,15568.2
+1972,Kentucky,16915.3
+1973,Kentucky,18903.1
+1974,Kentucky,21173.4
+1975,Kentucky,22809.9
+1976,Kentucky,26040.1
+1977,Kentucky,29176.5
+1978,Kentucky,32682.5
+1979,Kentucky,35838
+1980,Kentucky,37017
+1981,Kentucky,41068.1
+1982,Kentucky,42183.7
+1983,Kentucky,44091.8
+1984,Kentucky,49344.1
+1985,Kentucky,51892.8
+1986,Kentucky,53199
+1987,Kentucky,56282.2
+1988,Kentucky,61850.5
+1989,Kentucky,65525.5
+1990,Kentucky,68412.1
+1991,Kentucky,71679.2
+1992,Kentucky,77531.4
+1993,Kentucky,81618.1
+1994,Kentucky,87645.7
+1995,Kentucky,91914.7
+1996,Kentucky,96616.8
+1997,Kentucky,103621.2
+1998,Kentucky,109656.2
+1999,Kentucky,115258.5
+2000,Kentucky,114293.2
+2001,Kentucky,117430.8
+2002,Kentucky,122193.1
+2003,Kentucky,126970.6
+2004,Kentucky,134194.1
+2005,Kentucky,142649
+2006,Kentucky,151006.8
+2007,Kentucky,154531.7
+2008,Kentucky,158099
+2009,Kentucky,155779.7
+2010,Kentucky,164605.5
+2011,Kentucky,169940.7
+2012,Kentucky,176302.3
+2013,Kentucky,182359.2
+2014,Kentucky,186694.5
+2015,Kentucky,191916.4
+2016,Kentucky,195034.8
+2017,Kentucky,202174.9
+1963,Louisiana,9658.5
+1964,Louisiana,10468.4
+1965,Louisiana,11453.3
+1966,Louisiana,12774.5
+1967,Louisiana,14022.4
+1968,Louisiana,15075.9
+1969,Louisiana,16321
+1970,Louisiana,17176.6
+1971,Louisiana,18633.8
+1972,Louisiana,20293.7
+1973,Louisiana,22735
+1974,Louisiana,26892.3
+1975,Louisiana,30675.2
+1976,Louisiana,34412.8
+1977,Louisiana,39670.3
+1978,Louisiana,45212.1
+1979,Louisiana,51653.2
+1980,Louisiana,63925.5
+1981,Louisiana,77200.7
+1982,Louisiana,78066.8
+1983,Louisiana,76880.6
+1984,Louisiana,82622.6
+1985,Louisiana,84391.1
+1986,Louisiana,77107.4
+1987,Louisiana,78487.9
+1988,Louisiana,83195.9
+1989,Louisiana,87574.1
+1990,Louisiana,95177.1
+1991,Louisiana,96043.2
+1992,Louisiana,90889.7
+1993,Louisiana,95866.4
+1994,Louisiana,105118.9
+1995,Louisiana,112875.7
+1996,Louisiana,118807.2
+1997,Louisiana,126003.3
+1998,Louisiana,120429.3
+1999,Louisiana,125989.9
+2000,Louisiana,132809.9
+2001,Louisiana,137845.1
+2002,Louisiana,139537.9
+2003,Louisiana,154361.6
+2004,Louisiana,169873.2
+2005,Louisiana,197566.5
+2006,Louisiana,205799.5
+2007,Louisiana,206641.1
+2008,Louisiana,215068.9
+2009,Louisiana,206884.9
+2010,Louisiana,225677
+2011,Louisiana,228987.5
+2012,Louisiana,233623.1
+2013,Louisiana,228967.4
+2014,Louisiana,237876.9
+2015,Louisiana,234440.9
+2016,Louisiana,227983.9
+2017,Louisiana,235960.2
+1963,Maine,2420.5
+1964,Maine,2603.9
+1965,Maine,2807
+1966,Maine,3001.5
+1967,Maine,3153.5
+1968,Maine,3406.2
+1969,Maine,3694.7
+1970,Maine,3959
+1971,Maine,4207.2
+1972,Maine,4624.6
+1973,Maine,5202.7
+1974,Maine,5602.9
+1975,Maine,5995.6
+1976,Maine,6968.2
+1977,Maine,7647.2
+1978,Maine,8448.8
+1979,Maine,9335
+1980,Maine,10263
+1981,Maine,11255
+1982,Maine,12114.7
+1983,Maine,13238.6
+1984,Maine,14897
+1985,Maine,16045.7
+1986,Maine,17382.4
+1987,Maine,19166.2
+1988,Maine,21371.1
+1989,Maine,22669.6
+1990,Maine,23256.1
+1991,Maine,23378.6
+1992,Maine,24329.4
+1993,Maine,25201.9
+1994,Maine,26543.5
+1995,Maine,28152.6
+1996,Maine,29255.9
+1997,Maine,30774.7
+1998,Maine,32166.6
+1999,Maine,34382.1
+2000,Maine,36841
+2001,Maine,38500.8
+2002,Maine,40183.7
+2003,Maine,41838.5
+2004,Maine,44526.3
+2005,Maine,45874.8
+2006,Maine,47921.1
+2007,Maine,49148.6
+2008,Maine,49973.8
+2009,Maine,50556.5
+2010,Maine,51710.7
+2011,Maine,51866.7
+2012,Maine,52874
+2013,Maine,53719
+2014,Maine,55875.1
+2015,Maine,57515.1
+2016,Maine,59447.3
+2017,Maine,61702.8
+1963,Maryland,10260.9
+1964,Maryland,11171.4
+1965,Maryland,12263.1
+1966,Maryland,13562.6
+1967,Maryland,14318.7
+1968,Maryland,15852.5
+1969,Maryland,17385.1
+1970,Maryland,18720.1
+1971,Maryland,20501.2
+1972,Maryland,22644.4
+1973,Maryland,25111.8
+1974,Maryland,27381.3
+1975,Maryland,29596.7
+1976,Maryland,32612.4
+1977,Maryland,35555.2
+1978,Maryland,39525.6
+1979,Maryland,43627.7
+1980,Maryland,47522.4
+1981,Maryland,53117.1
+1982,Maryland,56339
+1983,Maryland,62205.1
+1984,Maryland,69919.6
+1985,Maryland,76878.3
+1986,Maryland,83743.6
+1987,Maryland,91380.5
+1988,Maryland,101280.3
+1989,Maryland,107444
+1990,Maryland,112834.8
+1991,Maryland,115427.6
+1992,Maryland,119535.3
+1993,Maryland,125515.4
+1994,Maryland,133311.3
+1995,Maryland,139070.1
+1996,Maryland,145023.1
+1997,Maryland,154782.9
+1998,Maryland,169980.1
+1999,Maryland,180207
+2000,Maryland,192106.3
+2001,Maryland,205449.8
+2002,Maryland,218299.3
+2003,Maryland,228690
+2004,Maryland,246762
+2005,Maryland,265929.5
+2006,Maryland,279468.3
+2007,Maryland,287872.8
+2008,Maryland,296435.4
+2009,Maryland,302507.3
+2010,Maryland,316451.5
+2011,Maryland,328058.4
+2012,Maryland,334821.6
+2013,Maryland,341255.3
+2014,Maryland,352524.3
+2015,Maryland,367276.7
+2016,Maryland,384376.8
+2017,Maryland,399537.9
+1963,Massachusetts,17414.8
+1964,Massachusetts,18625.2
+1965,Massachusetts,19997.2
+1966,Massachusetts,21837.4
+1967,Massachusetts,23275.3
+1968,Massachusetts,25225.9
+1969,Massachusetts,27475.6
+1970,Massachusetts,29052.1
+1971,Massachusetts,30988.5
+1972,Massachusetts,33806.5
+1973,Massachusetts,36911.7
+1974,Massachusetts,39313.4
+1975,Massachusetts,41910.2
+1976,Massachusetts,45498
+1977,Massachusetts,50718.9
+1978,Massachusetts,56883.4
+1979,Massachusetts,62964.5
+1980,Massachusetts,69684.1
+1981,Massachusetts,77833
+1982,Massachusetts,83777.1
+1983,Massachusetts,93053.6
+1984,Massachusetts,106424.9
+1985,Massachusetts,116612.7
+1986,Massachusetts,127155.3
+1987,Massachusetts,138899.5
+1988,Massachusetts,151625.5
+1989,Massachusetts,158199.6
+1990,Massachusetts,159504.9
+1991,Massachusetts,160727.6
+1992,Massachusetts,167434.9
+1993,Massachusetts,173527.4
+1994,Massachusetts,185710.2
+1995,Massachusetts,196408.7
+1996,Massachusetts,210630.5
+1997,Massachusetts,226879.6
+1998,Massachusetts,249154.2
+1999,Massachusetts,264779.4
+2000,Massachusetts,289926.5
+2001,Massachusetts,296834.1
+2002,Massachusetts,303967.1
+2003,Massachusetts,315299.8
+2004,Massachusetts,330669.9
+2005,Massachusetts,345586
+2006,Massachusetts,361266
+2007,Massachusetts,379877.2
+2008,Massachusetts,388583.2
+2009,Massachusetts,391265.1
+2010,Massachusetts,409762.5
+2011,Massachusetts,425593.2
+2012,Massachusetts,444329.8
+2013,Massachusetts,454345.7
+2014,Massachusetts,473454.4
+2015,Massachusetts,502816.9
+2016,Massachusetts,519564.2
+2017,Massachusetts,542978.8
+1963,Michigan,30466.4
+1964,Michigan,32574.7
+1965,Michigan,37000
+1966,Michigan,39260.3
+1967,Michigan,40024.7
+1968,Michigan,44727.3
+1969,Michigan,47894.5
+1970,Michigan,46178.3
+1971,Michigan,51704.2
+1972,Michigan,56579.1
+1973,Michigan,62907.4
+1974,Michigan,63034.4
+1975,Michigan,67045.6
+1976,Michigan,78770.1
+1977,Michigan,89325.9
+1978,Michigan,99335.3
+1979,Michigan,105413.4
+1980,Michigan,104134.5
+1981,Michigan,114676.3
+1982,Michigan,115166.4
+1983,Michigan,127754
+1984,Michigan,143677.7
+1985,Michigan,153604.8
+1986,Michigan,163458
+1987,Michigan,169236.9
+1988,Michigan,180620.7
+1989,Michigan,190626
+1990,Michigan,193102.7
+1991,Michigan,197717.2
+1992,Michigan,212056.8
+1993,Michigan,226368
+1994,Michigan,251483.9
+1995,Michigan,256614.9
+1996,Michigan,270319.7
+1997,Michigan,286408.4
+1998,Michigan,312611
+1999,Michigan,337561.2
+2000,Michigan,351572.7
+2001,Michigan,348529
+2002,Michigan,362271.1
+2003,Michigan,373839.3
+2004,Michigan,381228.9
+2005,Michigan,394229
+2006,Michigan,395451
+2007,Michigan,403735.8
+2008,Michigan,386053.9
+2009,Michigan,365591.7
+2010,Michigan,386625.9
+2011,Michigan,401105.4
+2012,Michigan,418857.4
+2013,Michigan,432717.6
+2014,Michigan,448964.4
+2015,Michigan,473729.6
+2016,Michigan,490185
+2017,Michigan,508904.8
+1963,Minnesota,10744.6
+1964,Minnesota,11353.4
+1965,Minnesota,12479.8
+1966,Minnesota,13746.6
+1967,Minnesota,14616.2
+1968,Minnesota,16148.6
+1969,Minnesota,17680.8
+1970,Minnesota,18699.5
+1971,Minnesota,20035.4
+1972,Minnesota,21924.9
+1973,Minnesota,26001
+1974,Minnesota,27689.2
+1975,Minnesota,29683
+1976,Minnesota,32839.9
+1977,Minnesota,36830.4
+1978,Minnesota,41641
+1979,Minnesota,46861.2
+1980,Minnesota,50218.6
+1981,Minnesota,55404.3
+1982,Minnesota,57472
+1983,Minnesota,61950.4
+1984,Minnesota,71368.6
+1985,Minnesota,75831.7
+1986,Minnesota,79449.7
+1987,Minnesota,85364.8
+1988,Minnesota,91896.4
+1989,Minnesota,98312.7
+1990,Minnesota,102756.6
+1991,Minnesota,106102.5
+1992,Minnesota,114517.8
+1993,Minnesota,117947.4
+1994,Minnesota,128167.2
+1995,Minnesota,135124.1
+1996,Minnesota,145880.3
+1997,Minnesota,156649.5
+1998,Minnesota,166292.7
+1999,Minnesota,174650
+2000,Minnesota,189964.8
+2001,Minnesota,194646.5
+2002,Minnesota,202766
+2003,Minnesota,215155.9
+2004,Minnesota,230282
+2005,Minnesota,242862.7
+2006,Minnesota,249735
+2007,Minnesota,258827.2
+2008,Minnesota,264688
+2009,Minnesota,259958.7
+2010,Minnesota,271821.2
+2011,Minnesota,283807.3
+2012,Minnesota,294296.6
+2013,Minnesota,306153
+2014,Minnesota,319338.9
+2015,Minnesota,328455
+2016,Minnesota,338364.2
+2017,Minnesota,350178.9
+1963,Mississippi,4425.1
+1964,Mississippi,4523.8
+1965,Mississippi,4925.4
+1966,Mississippi,5318.9
+1967,Mississippi,5651.9
+1968,Mississippi,6267.2
+1969,Mississippi,6801
+1970,Mississippi,7253.2
+1971,Mississippi,7923.1
+1972,Mississippi,9183.2
+1973,Mississippi,10557.4
+1974,Mississippi,11281.1
+1975,Mississippi,12292
+1976,Mississippi,14552.4
+1977,Mississippi,15957.4
+1978,Mississippi,17757.9
+1979,Mississippi,20010.8
+1980,Mississippi,21353.2
+1981,Mississippi,24023.1
+1982,Mississippi,24613.7
+1983,Mississippi,25967.3
+1984,Mississippi,28743.8
+1985,Mississippi,30138
+1986,Mississippi,30996.1
+1987,Mississippi,33530.8
+1988,Mississippi,35534.2
+1989,Mississippi,37208.5
+1990,Mississippi,38757
+1991,Mississippi,40862.1
+1992,Mississippi,44011.8
+1993,Mississippi,47340.3
+1994,Mississippi,51601.6
+1995,Mississippi,54984.3
+1996,Mississippi,57460.1
+1997,Mississippi,59874.8
+1998,Mississippi,60992.3
+1999,Mississippi,63827.2
+2000,Mississippi,65645.9
+2001,Mississippi,67028.6
+2002,Mississippi,68865.8
+2003,Mississippi,73332.2
+2004,Mississippi,77214.4
+2005,Mississippi,80995.7
+2006,Mississippi,85869
+2007,Mississippi,91057.6
+2008,Mississippi,96843.6
+2009,Mississippi,93205.6
+2010,Mississippi,95208.4
+2011,Mississippi,96371.6
+2012,Mississippi,99614.6
+2013,Mississippi,101638.1
+2014,Mississippi,103658.1
+2015,Mississippi,105706.7
+2016,Mississippi,106848.6
+2017,Mississippi,109375.4
+1963,Missouri,13613.1
+1964,Missouri,14454
+1965,Missouri,15624.6
+1966,Missouri,16843.1
+1967,Missouri,17842.6
+1968,Missouri,19711.2
+1969,Missouri,21095.1
+1970,Missouri,22229.5
+1971,Missouri,24244.7
+1972,Missouri,26414.4
+1973,Missouri,29274.8
+1974,Missouri,30467.9
+1975,Missouri,33001.4
+1976,Missouri,37211
+1977,Missouri,41149.6
+1978,Missouri,46176.1
+1979,Missouri,50600.7
+1980,Missouri,52419.9
+1981,Missouri,57762.9
+1982,Missouri,60698.6
+1983,Missouri,65538
+1984,Missouri,74538.8
+1985,Missouri,77912
+1986,Missouri,83330.3
+1987,Missouri,88911.9
+1988,Missouri,95760.1
+1989,Missouri,101411.9
+1990,Missouri,103565.7
+1991,Missouri,109161.6
+1992,Missouri,115288.4
+1993,Missouri,118905.6
+1994,Missouri,130566.7
+1995,Missouri,140059.8
+1996,Missouri,148256.8
+1997,Missouri,158308
+1998,Missouri,169368.7
+1999,Missouri,177360.5
+2000,Missouri,187296.8
+2001,Missouri,191199
+2002,Missouri,196597.6
+2003,Missouri,204009.5
+2004,Missouri,214218.1
+2005,Missouri,223497.1
+2006,Missouri,231771.5
+2007,Missouri,240158.8
+2008,Missouri,250581.1
+2009,Missouri,251780
+2010,Missouri,258544.1
+2011,Missouri,260093.5
+2012,Missouri,268761.5
+2013,Missouri,277851.1
+2014,Missouri,284729.4
+2015,Missouri,294750.3
+2016,Missouri,295960.5
+2017,Missouri,303763
+1963,Montana,1973.7
+1964,Montana,2023.9
+1965,Montana,2178
+1966,Montana,2348.6
+1967,Montana,2362
+1968,Montana,2530.9
+1969,Montana,2760.9
+1970,Montana,2918.7
+1971,Montana,3143.3
+1972,Montana,3661
+1973,Montana,4340.9
+1974,Montana,4661
+1975,Montana,5218.4
+1976,Montana,6032.1
+1977,Montana,6350.3
+1978,Montana,7443
+1979,Montana,8172.5
+1980,Montana,8924.9
+1981,Montana,10200.5
+1982,Montana,10206.5
+1983,Montana,10583.7
+1984,Montana,11010.2
+1985,Montana,10941.2
+1986,Montana,10978.7
+1987,Montana,11383.3
+1988,Montana,11702.9
+1989,Montana,12629.7
+1990,Montana,13241.9
+1991,Montana,13875.2
+1992,Montana,14936.9
+1993,Montana,16054.4
+1994,Montana,17062.1
+1995,Montana,17519.3
+1996,Montana,18118.7
+1997,Montana,18932
+1998,Montana,20444.9
+1999,Montana,20829.9
+2000,Montana,21885.2
+2001,Montana,22851.7
+2002,Montana,23880.5
+2003,Montana,25637.6
+2004,Montana,27939.2
+2005,Montana,30529.7
+2006,Montana,32933.3
+2007,Montana,36074.1
+2008,Montana,36862.5
+2009,Montana,35983.9
+2010,Montana,38054.6
+2011,Montana,40579.3
+2012,Montana,42005.8
+2013,Montana,43141
+2014,Montana,44529.2
+2015,Montana,46100.7
+2016,Montana,45595.5
+2017,Montana,47079
+1963,Nebraska,4262.1
+1964,Nebraska,4399.6
+1965,Nebraska,4748.9
+1966,Nebraska,5205
+1967,Nebraska,5486.5
+1968,Nebraska,5822.9
+1969,Nebraska,6537.4
+1970,Nebraska,6906.6
+1971,Nebraska,7660.1
+1972,Nebraska,8487.2
+1973,Nebraska,9961.3
+1974,Nebraska,10439.7
+1975,Nebraska,11874.9
+1976,Nebraska,13042.2
+1977,Nebraska,13874.2
+1978,Nebraska,15851
+1979,Nebraska,17422.9
+1980,Nebraska,18293.5
+1981,Nebraska,20863.4
+1982,Nebraska,21264.8
+1983,Nebraska,21820
+1984,Nebraska,24630.5
+1985,Nebraska,25716.8
+1986,Nebraska,26044.9
+1987,Nebraska,26759.5
+1988,Nebraska,29262.2
+1989,Nebraska,31332.3
+1990,Nebraska,33734.3
+1991,Nebraska,35613.3
+1992,Nebraska,38213.6
+1993,Nebraska,39353.4
+1994,Nebraska,43504.3
+1995,Nebraska,45111.3
+1996,Nebraska,49006.9
+1997,Nebraska,50308
+1998,Nebraska,51829.3
+1999,Nebraska,53689.3
+2000,Nebraska,56503.7
+2001,Nebraska,59467
+2002,Nebraska,61604.4
+2003,Nebraska,66415.6
+2004,Nebraska,70288.8
+2005,Nebraska,73959
+2006,Nebraska,78150
+2007,Nebraska,83122.8
+2008,Nebraska,85200.6
+2009,Nebraska,86830.3
+2010,Nebraska,91812.8
+2011,Nebraska,99613.4
+2012,Nebraska,102269
+2013,Nebraska,107604.3
+2014,Nebraska,111330.7
+2015,Nebraska,115269.6
+2016,Nebraska,116283.1
+2017,Nebraska,119587.5
+1963,Nevada,1819.1
+1964,Nevada,1932.8
+1965,Nevada,2031.7
+1966,Nevada,2130.9
+1967,Nevada,2247.8
+1968,Nevada,2549.4
+1969,Nevada,2947.2
+1970,Nevada,3262.1
+1971,Nevada,3611.1
+1972,Nevada,3990.1
+1973,Nevada,4530.2
+1974,Nevada,4965.6
+1975,Nevada,5529.4
+1976,Nevada,6262.6
+1977,Nevada,7415.8
+1978,Nevada,8931.7
+1979,Nevada,10294.9
+1980,Nevada,11633.4
+1981,Nevada,13202.5
+1982,Nevada,13884.6
+1983,Nevada,15059.8
+1984,Nevada,16514
+1985,Nevada,17944.9
+1986,Nevada,19731.1
+1987,Nevada,21950.7
+1988,Nevada,24987
+1989,Nevada,27846.7
+1990,Nevada,30980
+1991,Nevada,32785.6
+1992,Nevada,36051.6
+1993,Nevada,40039.1
+1994,Nevada,45172.8
+1995,Nevada,49249.3
+1996,Nevada,54418.6
+1997,Nevada,59467.2
+1998,Nevada,65315
+1999,Nevada,71534.9
+2000,Nevada,76627.1
+2001,Nevada,80426.6
+2002,Nevada,84733.5
+2003,Nevada,90778.8
+2004,Nevada,104420.6
+2005,Nevada,117856.1
+2006,Nevada,127575.7
+2007,Nevada,131599.8
+2008,Nevada,129372.4
+2009,Nevada,121109.5
+2010,Nevada,123598.1
+2011,Nevada,126657.1
+2012,Nevada,128043
+2013,Nevada,130621.4
+2014,Nevada,135026.5
+2015,Nevada,144378.9
+2016,Nevada,149739.6
+2017,Nevada,158302.1
+1963,New Hampshire,1650.9
+1964,New Hampshire,1812.3
+1965,New Hampshire,1961
+1966,New Hampshire,2168.8
+1967,New Hampshire,2370.4
+1968,New Hampshire,2595.6
+1969,New Hampshire,2816.5
+1970,New Hampshire,3050.4
+1971,New Hampshire,3332.2
+1972,New Hampshire,3625.9
+1973,New Hampshire,4172.8
+1974,New Hampshire,4469.6
+1975,New Hampshire,4841.7
+1976,New Hampshire,5510.9
+1977,New Hampshire,6298.1
+1978,New Hampshire,7389.2
+1979,New Hampshire,8351.2
+1980,New Hampshire,9262.5
+1981,New Hampshire,10480.2
+1982,New Hampshire,11407.4
+1983,New Hampshire,12629.2
+1984,New Hampshire,14766.9
+1985,New Hampshire,16577.5
+1986,New Hampshire,18369.2
+1987,New Hampshire,20994
+1988,New Hampshire,22937.3
+1989,New Hampshire,23777.2
+1990,New Hampshire,23767.8
+1991,New Hampshire,24762.6
+1992,New Hampshire,26331.8
+1993,New Hampshire,27362.1
+1994,New Hampshire,29190.1
+1995,New Hampshire,31875.5
+1996,New Hampshire,34560.6
+1997,New Hampshire,36935
+1998,New Hampshire,40557.8
+1999,New Hampshire,41880
+2000,New Hampshire,45225.5
+2001,New Hampshire,46629.7
+2002,New Hampshire,48678.5
+2003,New Hampshire,51378.4
+2004,New Hampshire,54126.7
+2005,New Hampshire,56352.1
+2006,New Hampshire,59411.6
+2007,New Hampshire,60732.7
+2008,New Hampshire,60918.7
+2009,New Hampshire,61937.4
+2010,New Hampshire,64151.6
+2011,New Hampshire,65430.5
+2012,New Hampshire,67689.2
+2013,New Hampshire,70181.9
+2014,New Hampshire,72368.7
+2015,New Hampshire,75892.9
+2016,New Hampshire,78418.2
+2017,New Hampshire,81649.7
+1963,New Jersey,23388.4
+1964,New Jersey,24774.2
+1965,New Jersey,26654.7
+1966,New Jersey,29026.9
+1967,New Jersey,30975.6
+1968,New Jersey,33656.8
+1969,New Jersey,35852.4
+1970,New Jersey,38491.7
+1971,New Jersey,41306.6
+1972,New Jersey,45388.3
+1973,New Jersey,49301.3
+1974,New Jersey,52986.6
+1975,New Jersey,56051.8
+1976,New Jersey,60496
+1977,New Jersey,65839
+1978,New Jersey,72918.4
+1979,New Jersey,81050.6
+1980,New Jersey,88333.5
+1981,New Jersey,98755
+1982,New Jersey,105759
+1983,New Jersey,117962
+1984,New Jersey,133571.7
+1985,New Jersey,145928.9
+1986,New Jersey,158836.4
+1987,New Jersey,174628.9
+1988,New Jersey,194708.6
+1989,New Jersey,205075.4
+1990,New Jersey,214357
+1991,New Jersey,221915
+1992,New Jersey,230774.5
+1993,New Jersey,240389.4
+1994,New Jersey,251572.6
+1995,New Jersey,263468
+1996,New Jersey,278191.1
+1997,New Jersey,292671
+1998,New Jersey,319946.2
+1999,New Jersey,336649.9
+2000,New Jersey,362006.9
+2001,New Jersey,373755.6
+2002,New Jersey,388337.7
+2003,New Jersey,405198.5
+2004,New Jersey,422889.1
+2005,New Jersey,440773.8
+2006,New Jersey,464458.9
+2007,New Jersey,480539
+2008,New Jersey,495121.8
+2009,New Jersey,486512.8
+2010,New Jersey,495149
+2011,New Jersey,499114.9
+2012,New Jersey,519745.8
+2013,New Jersey,533686.7
+2014,New Jersey,546831.5
+2015,New Jersey,569391.3
+2016,New Jersey,582070.9
+2017,New Jersey,602069
+1963,New Mexico,3029.5
+1964,New Mexico,3156.3
+1965,New Mexico,3310.7
+1966,New Mexico,3452.3
+1967,New Mexico,3514
+1968,New Mexico,3806.1
+1969,New Mexico,4090.8
+1970,New Mexico,4431.4
+1971,New Mexico,4821.5
+1972,New Mexico,5406.1
+1973,New Mexico,6189
+1974,New Mexico,7115.8
+1975,New Mexico,8098.3
+1976,New Mexico,9254
+1977,New Mexico,10102.1
+1978,New Mexico,11535.8
+1979,New Mexico,13140.5
+1980,New Mexico,15731
+1981,New Mexico,18511.3
+1982,New Mexico,19242
+1983,New Mexico,19882.2
+1984,New Mexico,21396.6
+1985,New Mexico,22534.5
+1986,New Mexico,21807.2
+1987,New Mexico,22429.4
+1988,New Mexico,23457.2
+1989,New Mexico,24927.4
+1990,New Mexico,26600.3
+1991,New Mexico,30295.3
+1992,New Mexico,32638.4
+1993,New Mexico,36876.1
+1994,New Mexico,41684.5
+1995,New Mexico,42145.9
+1996,New Mexico,44532.1
+1997,New Mexico,48682.7
+1998,New Mexico,50682.3
+1999,New Mexico,53092.8
+2000,New Mexico,55232.9
+2001,New Mexico,55986.2
+2002,New Mexico,58055.5
+2003,New Mexico,62895.9
+2004,New Mexico,69740.7
+2005,New Mexico,73684.2
+2006,New Mexico,77426.1
+2007,New Mexico,80572.8
+2008,New Mexico,83724.2
+2009,New Mexico,82017.4
+2010,New Mexico,83989.2
+2011,New Mexico,86625
+2012,New Mexico,87601.6
+2013,New Mexico,88411.2
+2014,New Mexico,92495.9
+2015,New Mexico,90849.4
+2016,New Mexico,90880
+2017,New Mexico,94210.7
+1963,New York,70640
+1964,New York,75542.3
+1965,New York,80346.7
+1966,New York,86558.7
+1967,New York,92077.9
+1968,New York,99816.9
+1969,New York,107031
+1970,New York,112349.2
+1971,New York,119145
+1972,New York,127221.4
+1973,New York,136395.9
+1974,New York,145418.9
+1975,New York,155255.6
+1976,New York,163284.3
+1977,New York,179890.3
+1978,New York,200062.9
+1979,New York,217724.6
+1980,New York,235746.1
+1981,New York,261839.6
+1982,New York,282226.5
+1983,New York,305287.9
+1984,New York,339427.1
+1985,New York,364281.1
+1986,New York,390103.7
+1987,New York,418305.6
+1988,New York,456556.7
+1989,New York,473252.3
+1990,New York,493191.9
+1991,New York,497336
+1992,New York,519703.9
+1993,New York,537504.2
+1994,New York,555321.8
+1995,New York,582656.3
+1996,New York,620153.4
+1997,New York,664679
+1998,New York,745223.7
+1999,New York,793721.1
+2000,New York,838660.3
+2001,New York,877149.3
+2002,New York,886792.7
+2003,New York,905280.6
+2004,New York,955192
+2005,New York,1015046.3
+2006,New York,1071393.1
+2007,New York,1108896
+2008,New York,1099234.4
+2009,New York,1152812.1
+2010,New York,1213946.9
+2011,New York,1236061.4
+2012,New York,1322447.9
+2013,New York,1355581.4
+2014,New York,1427812.7
+2015,New York,1488200.7
+2016,New York,1540969.7
+2017,New York,1606601.3
+1963,North Carolina,12638.9
+1964,North Carolina,13481.5
+1965,North Carolina,14543.9
+1966,North Carolina,15966.3
+1967,North Carolina,17154.7
+1968,North Carolina,18962.3
+1969,North Carolina,20881.7
+1970,North Carolina,22840.2
+1971,North Carolina,25035.5
+1972,North Carolina,28004.7
+1973,North Carolina,31754.6
+1974,North Carolina,33607.2
+1975,North Carolina,35997.8
+1976,North Carolina,40454.1
+1977,North Carolina,43822
+1978,North Carolina,49866.6
+1979,North Carolina,54514.7
+1980,North Carolina,58790.6
+1981,North Carolina,65868.8
+1982,North Carolina,68971.4
+1983,North Carolina,77543
+1984,North Carolina,88151.2
+1985,North Carolina,96535
+1986,North Carolina,104785.3
+1987,North Carolina,113262.1
+1988,North Carolina,124302.5
+1989,North Carolina,133866.3
+1990,North Carolina,139658.4
+1991,North Carolina,146367.5
+1992,North Carolina,159337
+1993,North Carolina,168005.7
+1994,North Carolina,181287.8
+1995,North Carolina,193466.7
+1996,North Carolina,203815
+1997,North Carolina,221258.8
+1998,North Carolina,245907.3
+1999,North Carolina,264063.5
+2000,North Carolina,275694.2
+2001,North Carolina,288683.5
+2002,North Carolina,298110
+2003,North Carolina,309318.2
+2004,North Carolina,328037.6
+2005,North Carolina,352394.5
+2006,North Carolina,383522.3
+2007,North Carolina,396347.6
+2008,North Carolina,413363.3
+2009,North Carolina,406477.4
+2010,North Carolina,415206.4
+2011,North Carolina,427205.6
+2012,North Carolina,439571
+2013,North Carolina,455521.6
+2014,North Carolina,475227.2
+2015,North Carolina,503467.3
+2016,North Carolina,518384
+2017,North Carolina,540496.6
+1963,North Dakota,1623.7
+1964,North Dakota,1591.5
+1965,North Dakota,1824.7
+1966,North Dakota,1845.9
+1967,North Dakota,1874.1
+1968,North Dakota,1958.1
+1969,North Dakota,2178.1
+1970,North Dakota,2294.1
+1971,North Dakota,2631.9
+1972,North Dakota,3078
+1973,North Dakota,4404
+1974,North Dakota,4505.5
+1975,North Dakota,4869
+1976,North Dakota,5051.9
+1977,North Dakota,5243.1
+1978,North Dakota,6417.2
+1979,North Dakota,7218.4
+1980,North Dakota,7645.4
+1981,North Dakota,9954.5
+1982,North Dakota,9953.5
+1983,North Dakota,10045.5
+1984,North Dakota,10641.6
+1985,North Dakota,10655
+1986,North Dakota,9773.3
+1987,North Dakota,10305.9
+1988,North Dakota,9747.6
+1989,North Dakota,10729.5
+1990,North Dakota,11509.1
+1991,North Dakota,11691.3
+1992,North Dakota,12896.2
+1993,North Dakota,13049.3
+1994,North Dakota,14303.8
+1995,North Dakota,14841.9
+1996,North Dakota,16491
+1997,North Dakota,16500.7
+1998,North Dakota,16792.7
+1999,North Dakota,16983.7
+2000,North Dakota,17976.1
+2001,North Dakota,18919.6
+2002,North Dakota,20209
+2003,North Dakota,22077.4
+2004,North Dakota,23167.8
+2005,North Dakota,24417.3
+2006,North Dakota,26120
+2007,North Dakota,28679.7
+2008,North Dakota,31722.1
+2009,North Dakota,32002.5
+2010,North Dakota,35426.3
+2011,North Dakota,41179.2
+2012,North Dakota,51345.1
+2013,North Dakota,53881.7
+2014,North Dakota,58547.4
+2015,North Dakota,54932.7
+2016,North Dakota,51099.2
+2017,North Dakota,52526.6
+1963,Ohio,33269.5
+1964,Ohio,35651.9
+1965,Ohio,39070.7
+1966,Ohio,42671.9
+1967,Ohio,44419.5
+1968,Ohio,48696.3
+1969,Ohio,52816.9
+1970,Ohio,53714
+1971,Ohio,57974.7
+1972,Ohio,62940.5
+1973,Ohio,69836.5
+1974,Ohio,74205.7
+1975,Ohio,78141.2
+1976,Ohio,87418.6
+1977,Ohio,96995.5
+1978,Ohio,107554.1
+1979,Ohio,117117.3
+1980,Ohio,121228.2
+1981,Ohio,132781.5
+1982,Ohio,134636
+1983,Ohio,144896.6
+1984,Ohio,163854.3
+1985,Ohio,174165.4
+1986,Ohio,182643.6
+1987,Ohio,191784.2
+1988,Ohio,205307.8
+1989,Ohio,217816.6
+1990,Ohio,227412.9
+1991,Ohio,233975.4
+1992,Ohio,250649.6
+1993,Ohio,259611.6
+1994,Ohio,281924.7
+1995,Ohio,297538.2
+1996,Ohio,311120.1
+1997,Ohio,332475.9
+1998,Ohio,361629.1
+1999,Ohio,376034.8
+2000,Ohio,391137.8
+2001,Ohio,395622.5
+2002,Ohio,411967
+2003,Ohio,424915.5
+2004,Ohio,445541.1
+2005,Ohio,465809.3
+2006,Ohio,477180.4
+2007,Ohio,490965
+2008,Ohio,495742.6
+2009,Ohio,480322
+2010,Ohio,497208.2
+2011,Ohio,525388.4
+2012,Ohio,540819.3
+2013,Ohio,561045.5
+2014,Ohio,593030
+2015,Ohio,609633.9
+2016,Ohio,620931.2
+2017,Ohio,645746.9
+1963,Oklahoma,6151.1
+1964,Oklahoma,6543.8
+1965,Oklahoma,6965.9
+1966,Oklahoma,7467.7
+1967,Oklahoma,8087
+1968,Oklahoma,8836.4
+1969,Oklahoma,9622.2
+1970,Oklahoma,10368.5
+1971,Oklahoma,11278.2
+1972,Oklahoma,12738
+1973,Oklahoma,14482.7
+1974,Oklahoma,16204
+1975,Oklahoma,18163.1
+1976,Oklahoma,20821.8
+1977,Oklahoma,24022.2
+1978,Oklahoma,27105
+1979,Oklahoma,31546.3
+1980,Oklahoma,37608.1
+1981,Oklahoma,45429.9
+1982,Oklahoma,49317.2
+1983,Oklahoma,47700.9
+1984,Oklahoma,51291.2
+1985,Oklahoma,52765
+1986,Oklahoma,48996.8
+1987,Oklahoma,49055.3
+1988,Oklahoma,52667
+1989,Oklahoma,55006.8
+1990,Oklahoma,57804.8
+1991,Oklahoma,59632.1
+1992,Oklahoma,62208.5
+1993,Oklahoma,65552.1
+1994,Oklahoma,68250.7
+1995,Oklahoma,70859.4
+1996,Oklahoma,76316.3
+1997,Oklahoma,81105.7
+1998,Oklahoma,81209.1
+1999,Oklahoma,84062.9
+2000,Oklahoma,90792.7
+2001,Oklahoma,96767
+2002,Oklahoma,99163
+2003,Oklahoma,105243.3
+2004,Oklahoma,113148.7
+2005,Oklahoma,124563.3
+2006,Oklahoma,137083.6
+2007,Oklahoma,144893.3
+2008,Oklahoma,159660
+2009,Oklahoma,145736.4
+2010,Oklahoma,152911.4
+2011,Oklahoma,165035.6
+2012,Oklahoma,173483.7
+2013,Oklahoma,182618.4
+2014,Oklahoma,195689
+2015,Oklahoma,185460.5
+2016,Oklahoma,178969.9
+2017,Oklahoma,188631.7
+1963,Oregon,5706.7
+1964,Oregon,6164.2
+1965,Oregon,6725.1
+1966,Oregon,7267.3
+1967,Oregon,7639.2
+1968,Oregon,8528.1
+1969,Oregon,9352.9
+1970,Oregon,9797.5
+1971,Oregon,10864.3
+1972,Oregon,12220.7
+1973,Oregon,14179.9
+1974,Oregon,15424.3
+1975,Oregon,16822.5
+1976,Oregon,19757.5
+1977,Oregon,22047.1
+1978,Oregon,25390.7
+1979,Oregon,28372.4
+1980,Oregon,30001.3
+1981,Oregon,31590.3
+1982,Oregon,31594.1
+1983,Oregon,33727.3
+1984,Oregon,37444.3
+1985,Oregon,39446.4
+1986,Oregon,41730
+1987,Oregon,44594.4
+1988,Oregon,49138.4
+1989,Oregon,52610.1
+1990,Oregon,56565.6
+1991,Oregon,59441
+1992,Oregon,63392.3
+1993,Oregon,69408.5
+1994,Oregon,75393.1
+1995,Oregon,81553.7
+1996,Oregon,93306.4
+1997,Oregon,100363
+1998,Oregon,105111.5
+1999,Oregon,107546.3
+2000,Oregon,117258.3
+2001,Oregon,117274.7
+2002,Oregon,121229.5
+2003,Oregon,127211.6
+2004,Oregon,136238.5
+2005,Oregon,143662.6
+2006,Oregon,155153.3
+2007,Oregon,161512
+2008,Oregon,165189.1
+2009,Oregon,160640.7
+2010,Oregon,163827.6
+2011,Oregon,170621.3
+2012,Oregon,174493.1
+2013,Oregon,179382.7
+2014,Oregon,189344.3
+2015,Oregon,203173.3
+2016,Oregon,215336.1
+2017,Oregon,227154.5
+1963,Pennsylvania,34532.8
+1964,Pennsylvania,37374.8
+1965,Pennsylvania,40541
+1966,Pennsylvania,44081.9
+1967,Pennsylvania,46515.2
+1968,Pennsylvania,49957.4
+1969,Pennsylvania,54486.1
+1970,Pennsylvania,56670.4
+1971,Pennsylvania,60293.4
+1972,Pennsylvania,65389.6
+1973,Pennsylvania,71851.6
+1974,Pennsylvania,78201.4
+1975,Pennsylvania,84119.9
+1976,Pennsylvania,90742.6
+1977,Pennsylvania,99023.6
+1978,Pennsylvania,110054
+1979,Pennsylvania,120527.4
+1980,Pennsylvania,127180.9
+1981,Pennsylvania,138572.8
+1982,Pennsylvania,142076.5
+1983,Pennsylvania,152041.9
+1984,Pennsylvania,167390.2
+1985,Pennsylvania,176873.4
+1986,Pennsylvania,187386.1
+1987,Pennsylvania,202910.4
+1988,Pennsylvania,220582.2
+1989,Pennsylvania,233162
+1990,Pennsylvania,245280.8
+1991,Pennsylvania,255162.7
+1992,Pennsylvania,269849.2
+1993,Pennsylvania,281703.7
+1994,Pennsylvania,296601.6
+1995,Pennsylvania,312989.4
+1996,Pennsylvania,325000.7
+1997,Pennsylvania,342661.8
+1998,Pennsylvania,372738.5
+1999,Pennsylvania,389715.7
+2000,Pennsylvania,407652.8
+2001,Pennsylvania,424965.2
+2002,Pennsylvania,436985.5
+2003,Pennsylvania,455106.8
+2004,Pennsylvania,481738.9
+2005,Pennsylvania,505584.6
+2006,Pennsylvania,526396.3
+2007,Pennsylvania,560753.4
+2008,Pennsylvania,582240.2
+2009,Pennsylvania,577379.8
+2010,Pennsylvania,599312.8
+2011,Pennsylvania,618987.7
+2012,Pennsylvania,641317.3
+2013,Pennsylvania,663900.8
+2014,Pennsylvania,690675.4
+2015,Pennsylvania,710040.5
+2016,Pennsylvania,724668.3
+2017,Pennsylvania,756268.5
+1963,Rhode Island,2685.6
+1964,Rhode Island,2880.9
+1965,Rhode Island,3157.2
+1966,Rhode Island,3470.4
+1967,Rhode Island,3631
+1968,Rhode Island,3911.9
+1969,Rhode Island,4112.6
+1970,Rhode Island,4310.8
+1971,Rhode Island,4599
+1972,Rhode Island,5113.6
+1973,Rhode Island,5418.3
+1974,Rhode Island,5599.2
+1975,Rhode Island,6002.4
+1976,Rhode Island,6527.5
+1977,Rhode Island,7244.6
+1978,Rhode Island,7974.6
+1979,Rhode Island,8844.6
+1980,Rhode Island,9626.2
+1981,Rhode Island,10729.5
+1982,Rhode Island,11420.2
+1983,Rhode Island,12323.2
+1984,Rhode Island,13800.6
+1985,Rhode Island,15222.5
+1986,Rhode Island,16621.5
+1987,Rhode Island,17890.6
+1988,Rhode Island,19738.4
+1989,Rhode Island,21058.5
+1990,Rhode Island,21663.9
+1991,Rhode Island,21737.8
+1992,Rhode Island,22665.2
+1993,Rhode Island,23566.4
+1994,Rhode Island,24353.7
+1995,Rhode Island,25549.8
+1996,Rhode Island,26453.7
+1997,Rhode Island,28717.4
+1998,Rhode Island,30719.9
+1999,Rhode Island,32295.5
+2000,Rhode Island,34516.4
+2001,Rhode Island,35992.1
+2002,Rhode Island,38132.1
+2003,Rhode Island,40272.8
+2004,Rhode Island,43245.6
+2005,Rhode Island,45162.4
+2006,Rhode Island,47711.8
+2007,Rhode Island,47845.6
+2008,Rhode Island,47107.8
+2009,Rhode Island,47901.4
+2010,Rhode Island,49571.8
+2011,Rhode Island,50175.9
+2012,Rhode Island,51642
+2013,Rhode Island,53209.9
+2014,Rhode Island,54573.3
+2015,Rhode Island,56843.8
+2016,Rhode Island,57860
+2017,Rhode Island,59305.7
+1963,South Carolina,5057.2
+1964,South Carolina,5544
+1965,South Carolina,6211
+1966,South Carolina,6941.3
+1967,South Carolina,7381.2
+1968,South Carolina,8170
+1969,South Carolina,8873.7
+1970,South Carolina,9555.8
+1971,South Carolina,10550.5
+1972,South Carolina,11897.4
+1973,South Carolina,13760.7
+1974,South Carolina,15312.3
+1975,South Carolina,16029.9
+1976,South Carolina,18177
+1977,South Carolina,20103
+1978,South Carolina,22976.3
+1979,South Carolina,25506.7
+1980,South Carolina,27606.6
+1981,South Carolina,31048.2
+1982,South Carolina,32353.3
+1983,South Carolina,35850.2
+1984,South Carolina,41202.9
+1985,South Carolina,43987.6
+1986,South Carolina,47748.4
+1987,South Carolina,52688.4
+1988,South Carolina,57328.6
+1989,South Carolina,61346.8
+1990,South Carolina,65156.9
+1991,South Carolina,68000.3
+1992,South Carolina,71848
+1993,South Carolina,76158.3
+1994,South Carolina,82061.5
+1995,South Carolina,87247.7
+1996,South Carolina,90754.8
+1997,South Carolina,96465
+1998,South Carolina,103642.6
+1999,South Carolina,110251.8
+2000,South Carolina,115246.8
+2001,South Carolina,119301.4
+2002,South Carolina,124160.1
+2003,South Carolina,130337.4
+2004,South Carolina,135160.1
+2005,South Carolina,142616.6
+2006,South Carolina,150659.1
+2007,South Carolina,159362.5
+2008,South Carolina,161804.7
+2009,South Carolina,159835.6
+2010,South Carolina,163856.8
+2011,South Carolina,170087.2
+2012,South Carolina,175374.8
+2013,South Carolina,183014.9
+2014,South Carolina,191967.4
+2015,South Carolina,203920.5
+2016,South Carolina,212460.2
+2017,South Carolina,221689.6
+1963,South Dakota,1609.5
+1964,South Dakota,1596.8
+1965,South Dakota,1762.7
+1966,South Dakota,1919.1
+1967,South Dakota,1960.2
+1968,South Dakota,2092.6
+1969,South Dakota,2272.8
+1970,South Dakota,2437.5
+1971,South Dakota,2656.1
+1972,South Dakota,3046.4
+1973,South Dakota,3957.5
+1974,South Dakota,3966.4
+1975,South Dakota,4400.1
+1976,South Dakota,4645.5
+1977,South Dakota,5116.2
+1978,South Dakota,5971.3
+1979,South Dakota,6715.9
+1980,South Dakota,6760
+1981,South Dakota,7661.1
+1982,South Dakota,7709
+1983,South Dakota,8123
+1984,South Dakota,9194
+1985,South Dakota,9588
+1986,South Dakota,10066.7
+1987,South Dakota,10669.3
+1988,South Dakota,11172.7
+1989,South Dakota,11790.1
+1990,South Dakota,12770.3
+1991,South Dakota,13736.1
+1992,South Dakota,14885.5
+1993,South Dakota,16104.5
+1994,South Dakota,17329.6
+1995,South Dakota,18053.8
+1996,South Dakota,19418.7
+1997,South Dakota,19764.6
+1998,South Dakota,20184.7
+1999,South Dakota,21050.8
+2000,South Dakota,22690.7
+2001,South Dakota,23512.8
+2002,South Dakota,26337.5
+2003,South Dakota,27445
+2004,South Dakota,29628.9
+2005,South Dakota,30659.4
+2006,South Dakota,31898.6
+2007,South Dakota,34701.6
+2008,South Dakota,36668.5
+2009,South Dakota,36193.1
+2010,South Dakota,37484.4
+2011,South Dakota,41541.5
+2012,South Dakota,43444.6
+2013,South Dakota,44814.9
+2014,South Dakota,46057
+2015,South Dakota,47778.2
+2016,South Dakota,48492.9
+2017,South Dakota,49813.1
+1963,Tennessee,9055.3
+1964,Tennessee,9758
+1965,Tennessee,10820.1
+1966,Tennessee,11979.7
+1967,Tennessee,12598.4
+1968,Tennessee,13974.5
+1969,Tennessee,15167.2
+1970,Tennessee,16099.9
+1971,Tennessee,17867.2
+1972,Tennessee,20325.5
+1973,Tennessee,23150.3
+1974,Tennessee,25105.9
+1975,Tennessee,26645.5
+1976,Tennessee,30549
+1977,Tennessee,33598.1
+1978,Tennessee,38181.6
+1979,Tennessee,42194
+1980,Tennessee,44972.4
+1981,Tennessee,50264.9
+1982,Tennessee,52044.8
+1983,Tennessee,57073.1
+1984,Tennessee,63982.5
+1985,Tennessee,68425.5
+1986,Tennessee,73288.2
+1987,Tennessee,80715
+1988,Tennessee,87355.8
+1989,Tennessee,91579.2
+1990,Tennessee,94086.7
+1991,Tennessee,101208.4
+1992,Tennessee,111660.4
+1993,Tennessee,119567.6
+1994,Tennessee,129895.2
+1995,Tennessee,137061.2
+1996,Tennessee,143162.6
+1997,Tennessee,152687.3
+1998,Tennessee,167308.4
+1999,Tennessee,175819.8
+2000,Tennessee,181629.5
+2001,Tennessee,185774.7
+2002,Tennessee,195289.2
+2003,Tennessee,203833.7
+2004,Tennessee,218020.6
+2005,Tennessee,228099.4
+2006,Tennessee,240193.9
+2007,Tennessee,244252.4
+2008,Tennessee,251609
+2009,Tennessee,250544.4
+2010,Tennessee,255935.8
+2011,Tennessee,267659.1
+2012,Tennessee,283721.8
+2013,Tennessee,292803.9
+2014,Tennessee,304150.4
+2015,Tennessee,322893.1
+2016,Tennessee,334618.1
+2017,Tennessee,349569.2
+1963,Texas,29251.8
+1964,Texas,31355.6
+1965,Texas,33857.7
+1966,Texas,36773.7
+1967,Texas,39906.7
+1968,Texas,44484.5
+1969,Texas,48575.3
+1970,Texas,52314.3
+1971,Texas,57343.8
+1972,Texas,64018.6
+1973,Texas,73839.8
+1974,Texas,85387.3
+1975,Texas,98803.8
+1976,Texas,113757.5
+1977,Texas,130404.4
+1978,Texas,149091
+1979,Texas,171607.6
+1980,Texas,203072.5
+1981,Texas,245235.4
+1982,Texas,260085.1
+1983,Texas,264882.7
+1984,Texas,288636.7
+1985,Texas,307223.6
+1986,Texas,295720.7
+1987,Texas,300667.1
+1988,Texas,327354
+1989,Texas,349951.9
+1990,Texas,378943.1
+1991,Texas,393573.9
+1992,Texas,416401.3
+1993,Texas,443775.4
+1994,Texas,475989.7
+1995,Texas,507725.3
+1996,Texas,551512.5
+1997,Texas,606982.2
+1998,Texas,645696.9
+1999,Texas,681335.4
+2000,Texas,738871
+2001,Texas,773006.7
+2002,Texas,787257.8
+2003,Texas,829764.4
+2004,Texas,906321
+2005,Texas,986401.3
+2006,Texas,1085294.9
+2007,Texas,1178583.1
+2008,Texas,1237394.9
+2009,Texas,1163401.3
+2010,Texas,1237196.8
+2011,Texas,1331220.6
+2012,Texas,1411378.7
+2013,Texas,1502249.8
+2014,Texas,1565390.2
+2015,Texas,1568641.9
+2016,Texas,1565698.8
+2017,Texas,1645135.9
+1963,Utah,2997.6
+1964,Utah,3078.3
+1965,Utah,3207
+1966,Utah,3409.4
+1967,Utah,3487.7
+1968,Utah,3724.3
+1969,Utah,4036
+1970,Utah,4448.4
+1971,Utah,4936.4
+1972,Utah,5603.6
+1973,Utah,6472.5
+1974,Utah,7348.4
+1975,Utah,8185.9
+1976,Utah,9299.8
+1977,Utah,10381.3
+1978,Utah,11998
+1979,Utah,13708.7
+1980,Utah,15311.1
+1981,Utah,17319.7
+1982,Utah,18365.5
+1983,Utah,19751.9
+1984,Utah,22147.1
+1985,Utah,24082.9
+1986,Utah,24282.1
+1987,Utah,25100
+1988,Utah,27324.7
+1989,Utah,28668.2
+1990,Utah,31249.3
+1991,Utah,33501
+1992,Utah,35602.3
+1993,Utah,38631.4
+1994,Utah,42591.1
+1995,Utah,46746.4
+1996,Utah,52016
+1997,Utah,55211.9
+1998,Utah,62291.4
+1999,Utah,66022.6
+2000,Utah,70291.8
+2001,Utah,73226
+2002,Utah,75998.8
+2003,Utah,79149.1
+2004,Utah,85701.9
+2005,Utah,94194.9
+2006,Utah,106124.2
+2007,Utah,114652.7
+2008,Utah,115985.4
+2009,Utah,113332.9
+2010,Utah,117960.5
+2011,Utah,124539.4
+2012,Utah,128721
+2013,Utah,134252.1
+2014,Utah,141342.9
+2015,Utah,149576.7
+2016,Utah,157474.7
+2017,Utah,164917
+1963,Vermont,993.4
+1964,Vermont,1089.6
+1965,Vermont,1208.2
+1966,Vermont,1435.1
+1967,Vermont,1504.8
+1968,Vermont,1627.8
+1969,Vermont,1797.9
+1970,Vermont,1979.7
+1971,Vermont,2121.9
+1972,Vermont,2294.3
+1973,Vermont,2482.5
+1974,Vermont,2577.2
+1975,Vermont,2807.3
+1976,Vermont,3222.3
+1977,Vermont,3346.7
+1978,Vermont,3941.8
+1979,Vermont,4398.6
+1980,Vermont,4855.7
+1981,Vermont,5435.9
+1982,Vermont,5755.1
+1983,Vermont,6268.9
+1984,Vermont,6895.3
+1985,Vermont,7524.2
+1986,Vermont,8168.6
+1987,Vermont,9156.6
+1988,Vermont,10259.3
+1989,Vermont,11120.3
+1990,Vermont,11673.6
+1991,Vermont,11732.6
+1992,Vermont,12538.3
+1993,Vermont,13026.9
+1994,Vermont,13689.2
+1995,Vermont,13891.4
+1996,Vermont,14672.4
+1997,Vermont,15521.1
+1998,Vermont,16073.1
+1999,Vermont,17159.3
+2000,Vermont,18311.9
+2001,Vermont,19274.1
+2002,Vermont,20163.3
+2003,Vermont,21130.1
+2004,Vermont,22666
+2005,Vermont,23509.3
+2006,Vermont,24309.8
+2007,Vermont,24696.8
+2008,Vermont,25678
+2009,Vermont,25867.8
+2010,Vermont,27108.4
+2011,Vermont,28135.1
+2012,Vermont,28887.4
+2013,Vermont,29098.8
+2014,Vermont,29714.4
+2015,Vermont,30672.9
+2016,Vermont,31552.2
+2017,Vermont,32545.2
+1963,Virginia,11681.9
+1964,Virginia,12712.6
+1965,Virginia,13666
+1966,Virginia,14903.8
+1967,Virginia,15924.9
+1968,Virginia,17692.5
+1969,Virginia,19638
+1970,Virginia,21048.4
+1971,Virginia,23157.3
+1972,Virginia,26063.8
+1973,Virginia,29450
+1974,Virginia,32427.8
+1975,Virginia,35067
+1976,Virginia,39574.2
+1977,Virginia,43218.8
+1978,Virginia,48379.1
+1979,Virginia,53397.8
+1980,Virginia,58668.7
+1981,Virginia,66178.6
+1982,Virginia,71465.1
+1983,Virginia,79438.9
+1984,Virginia,89767.8
+1985,Virginia,97966.7
+1986,Virginia,107347.9
+1987,Virginia,117602.8
+1988,Virginia,128087.7
+1989,Virginia,137660.7
+1990,Virginia,144970.6
+1991,Virginia,151092.6
+1992,Virginia,158990.2
+1993,Virginia,167688.4
+1994,Virginia,177057.3
+1995,Virginia,186235.6
+1996,Virginia,197756.4
+1997,Virginia,210360.6
+1998,Virginia,233095.5
+1999,Virginia,249798.3
+2000,Virginia,266886.4
+2001,Virginia,284001.9
+2002,Virginia,293275.9
+2003,Virginia,309981.2
+2004,Virginia,332250.6
+2005,Virginia,360299.8
+2006,Virginia,379129.4
+2007,Virginia,392917.3
+2008,Virginia,399032.1
+2009,Virginia,408918.7
+2010,Virginia,422902
+2011,Virginia,432392.7
+2012,Virginia,444950
+2013,Virginia,455070
+2014,Virginia,463781.7
+2015,Virginia,484690.5
+2016,Virginia,493699.5
+2017,Virginia,510586.1
+1963,Washington,11171.1
+1964,Washington,11392.3
+1965,Washington,12329.7
+1966,Washington,14269.7
+1967,Washington,15658.9
+1968,Washington,17013.6
+1969,Washington,18090.9
+1970,Washington,18112
+1971,Washington,18761.2
+1972,Washington,20482.9
+1973,Washington,23341.8
+1974,Washington,26239.5
+1975,Washington,29282
+1976,Washington,32735
+1977,Washington,36825.9
+1978,Washington,42668.4
+1979,Washington,48712.7
+1980,Washington,52681.8
+1981,Washington,58918.1
+1982,Washington,62933.3
+1983,Washington,67948.8
+1984,Washington,74169.5
+1985,Washington,77341.2
+1986,Washington,84014.9
+1987,Washington,90325.3
+1988,Washington,99051
+1989,Washington,108064
+1990,Washington,118640.2
+1991,Washington,125895
+1992,Washington,134469
+1993,Washington,142499.7
+1994,Washington,150805.2
+1995,Washington,155068.6
+1996,Washington,166539.8
+1997,Washington,179639.5
+1998,Washington,210205
+1999,Washington,230554.9
+2000,Washington,237831.8
+2001,Washington,239425.7
+2002,Washington,248189.1
+2003,Washington,258262.8
+2004,Washington,270115.2
+2005,Washington,296100.7
+2006,Washington,317167.2
+2007,Washington,346442.8
+2008,Washington,355677.8
+2009,Washington,353632
+2010,Washington,365551.9
+2011,Washington,379539
+2012,Washington,400863.3
+2013,Washington,419345
+2014,Washington,442442.4
+2015,Washington,469944
+2016,Washington,492251.4
+2017,Washington,524322.7
+1963,West Virginia,4616.9
+1964,West Virginia,4892.1
+1965,West Virginia,5207.5
+1966,West Virginia,5570.1
+1967,West Virginia,5824.8
+1968,West Virginia,6091.3
+1969,West Virginia,6381
+1970,West Virginia,7088.1
+1971,West Virginia,7601.6
+1972,West Virginia,8390.8
+1973,West Virginia,9187.3
+1974,West Virginia,10683.7
+1975,West Virginia,11973
+1976,West Virginia,13249.4
+1977,West Virginia,14439.4
+1978,West Virginia,15957.4
+1979,West Virginia,17424.4
+1980,West Virginia,18408.5
+1981,West Virginia,19836.5
+1982,West Virginia,20510.6
+1983,West Virginia,20403.3
+1984,West Virginia,22171.6
+1985,West Virginia,22936.4
+1986,West Virginia,22880.1
+1987,West Virginia,23425.4
+1988,West Virginia,25876.3
+1989,West Virginia,26663.1
+1990,West Virginia,27754.3
+1991,West Virginia,29092.1
+1992,West Virginia,30410.3
+1993,West Virginia,31881.4
+1994,West Virginia,34592.1
+1995,West Virginia,36148.7
+1996,West Virginia,37224.2
+1997,West Virginia,38570
+1998,West Virginia,40086.1
+1999,West Virginia,41831
+2000,West Virginia,42606.9
+2001,West Virginia,43977.6
+2002,West Virginia,45433.7
+2003,West Virginia,46667.9
+2004,West Virginia,49271.7
+2005,West Virginia,53259
+2006,West Virginia,56530
+2007,West Virginia,58635.8
+2008,West Virginia,62066.7
+2009,West Virginia,62957.8
+2010,West Virginia,65274.1
+2011,West Virginia,68524.9
+2012,West Virginia,69399
+2013,West Virginia,71037.6
+2014,West Virginia,72027.1
+2015,West Virginia,70413.6
+2016,West Virginia,70191.4
+2017,West Virginia,74047.4
+1963,Wisconsin,12741.8
+1964,Wisconsin,13718.7
+1965,Wisconsin,14784.2
+1966,Wisconsin,16132.6
+1967,Wisconsin,16840.6
+1968,Wisconsin,18225.9
+1969,Wisconsin,19520.8
+1970,Wisconsin,20193.1
+1971,Wisconsin,22083.1
+1972,Wisconsin,24063.8
+1973,Wisconsin,27036.7
+1974,Wisconsin,28694.4
+1975,Wisconsin,32295
+1976,Wisconsin,37032.7
+1977,Wisconsin,40686.2
+1978,Wisconsin,45423.4
+1979,Wisconsin,50100.8
+1980,Wisconsin,52898.8
+1981,Wisconsin,57494.4
+1982,Wisconsin,59488.5
+1983,Wisconsin,63169.9
+1984,Wisconsin,70013.2
+1985,Wisconsin,73820.4
+1986,Wisconsin,77824
+1987,Wisconsin,82013.1
+1988,Wisconsin,89619.6
+1989,Wisconsin,95216.5
+1990,Wisconsin,100235.8
+1991,Wisconsin,104773.9
+1992,Wisconsin,112972.1
+1993,Wisconsin,120023.9
+1994,Wisconsin,129436.7
+1995,Wisconsin,135311.3
+1996,Wisconsin,143443.8
+1997,Wisconsin,151035.3
+1998,Wisconsin,162523
+1999,Wisconsin,172258.1
+2000,Wisconsin,180539
+2001,Wisconsin,187939.3
+2002,Wisconsin,194813.1
+2003,Wisconsin,203134.7
+2004,Wisconsin,215138.9
+2005,Wisconsin,225697.9
+2006,Wisconsin,235708.6
+2007,Wisconsin,243766.7
+2008,Wisconsin,244759.9
+2009,Wisconsin,245539
+2010,Wisconsin,254354.1
+2011,Wisconsin,263881.6
+2012,Wisconsin,274343.9
+2013,Wisconsin,282384.6
+2014,Wisconsin,293519.4
+2015,Wisconsin,304763.9
+2016,Wisconsin,312203.7
+2017,Wisconsin,321373.3
+1963,Wyoming,1352.8
+1964,Wyoming,1405.4
+1965,Wyoming,1448.3
+1966,Wyoming,1508.9
+1967,Wyoming,1541.1
+1968,Wyoming,1671.4
+1969,Wyoming,1801.3
+1970,Wyoming,1943.3
+1971,Wyoming,2099.9
+1972,Wyoming,2355.5
+1973,Wyoming,2843.9
+1974,Wyoming,3469.6
+1975,Wyoming,3982.6
+1976,Wyoming,4722.4
+1977,Wyoming,5540.5
+1978,Wyoming,6689.2
+1979,Wyoming,8062.7
+1980,Wyoming,10428.3
+1981,Wyoming,12703.1
+1982,Wyoming,12421.6
+1983,Wyoming,11578
+1984,Wyoming,12152.2
+1985,Wyoming,12204.5
+1986,Wyoming,10522.1
+1987,Wyoming,10369.6
+1988,Wyoming,10990.7
+1989,Wyoming,11436.8
+1990,Wyoming,12705.5
+1991,Wyoming,12977.4
+1992,Wyoming,13178.7
+1993,Wyoming,13790.6
+1994,Wyoming,14070.4
+1995,Wyoming,14608.1
+1996,Wyoming,15752.2
+1997,Wyoming,16083.8
+1998,Wyoming,14928.2
+1999,Wyoming,15710.9
+2000,Wyoming,17205.4
+2001,Wyoming,18660.7
+2002,Wyoming,19115.6
+2003,Wyoming,21027.5
+2004,Wyoming,23186.7
+2005,Wyoming,27177.6
+2006,Wyoming,32405.1
+2007,Wyoming,36602.5
+2008,Wyoming,42540.4
+2009,Wyoming,36042.2
+2010,Wyoming,37401.2
+2011,Wyoming,39370.7
+2012,Wyoming,38431.7
+2013,Wyoming,38922.5
+2014,Wyoming,39372.3
+2015,Wyoming,37764.1
+2016,Wyoming,35984.2
+2017,Wyoming,38036.8
