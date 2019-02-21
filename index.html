@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<link rel="stylesheet" href="style.css">
-
-
-
-<svg width="960" height="500"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
+<link rel="stylesheet" href="style.css">
+<title>Data-Visualization-GDP</title>
+<svg width="960" height="500"></svg>
 <br>
 
 <script>
+  //Svg margins for graph and year slider
   var svgChart = d3.select("svg")
   margin = {
       top: 20,
@@ -26,6 +25,7 @@
     height = +svgChart.attr("height") - margin.top - margin.bottom,
     height2 = +svgChart.attr("height") - margin2.top - margin2.bottom;
 
+  //Initialize d3 parse for years
   var parseDate = d3.timeParse("%Y");
 
   var x = d3.scaleTime().range([0, width]),
@@ -44,6 +44,7 @@
     ])
     .on("brush end", brushed);
 
+  //Graph line
   var valueLine = d3.line()
     .curve(d3.curveBasis)
     .x(function(d) {
@@ -53,6 +54,7 @@
       return y(d.gdp);
     });
 
+  //Slider line
   var valueLine2 = d3.line()
     .curve(d3.curveBasis)
     .x(function(d) {
@@ -68,10 +70,12 @@
     .attr("width", width)
     .attr("height", height);
 
+  //Center graph
   var focus = svgChart.append("g")
     .attr("class", "focus")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+  //Center year slider
   var context = svgChart.append("g")
     .attr("class", "context")
     .attr("transform", "translate(" + margin2.left + "," + margin2.top + ")");
@@ -83,6 +87,7 @@
   dataAll = {};
   dataArray = [];
 
+  //Parse gdp.csv for year, state, and gdp data
   d3.csv("gdp.csv", function(error, data) {
     if (error) throw error;
 
@@ -120,13 +125,14 @@
     focus.selectAll(".line").remove();
     context.selectAll(".line").remove();
 
+    //Begin graph with National Average already on it
     dataArray.push(dataAll["National Average"]);
     createGraph();
 
   });
 
   function createGraph() {
-
+    //Give the National Average a dashed line for easy identification 
     context.selectAll(".line").data(dataArray).enter().append("path")
       .attr("class", "line")
       .attr("stroke", function(d) {
@@ -160,6 +166,7 @@
           return 5;
         }
       })
+      //When mousing over lines, change their opacity
       .on("mouseover", function(d1) {
         focus.selectAll(".line")
           .style("stroke-opacity", function(d2) {
@@ -179,6 +186,7 @@
               return 5;
             }
           })
+          //Change opacity of US map when mousing over
         svgMap.selectAll("path")
           .style("fill-opacity", function(d2) {
             if (d1[0].state == d2.properties.name) {
@@ -195,6 +203,7 @@
           .style("top", (d3.event.pageY - 28) + "px")
           .style("top", (d3.event.pageY - 28) + "px")
       })
+      //Return opacity to normal when mouse leaves
       .on("mouseout", function(d1) {
         focus.selectAll(".line")
           .style("stroke-opacity", "1")
@@ -217,12 +226,14 @@
       context.append("g")
         .attr("class", "axis axis--x");
 
+      //Create and position text for x-axis
       svgChart.append("text")
         .attr("x", width / 2 + 58)
         .attr("y", height + 65)
         .style("text-anchor", "middle")
         .text("Years");
 
+      //Create and position text for y-axis
       svgChart.append("text")
         .attr("transform", "rotate(-90)")
         .attr("y", 0 - margin.left + 125)
@@ -231,6 +242,7 @@
         .style("text-anchor", "middle")
         .text("GDP ( in millions )");
 
+      //Create and position graph title
       svgChart.append("text")
         .attr("x", (width / 2 + 30))
         .attr("y", margin.top)
@@ -262,7 +274,6 @@
   }
 
   function brushed() {
-    //if (d3.event.sourceEvent && d3.event.sourceEvent.type === "zoom") return; // ignore brush-by-zoom
     var s = d3.event.selection || x2.range();
     x.domain(s.map(x2.invert, x2));
     focus.selectAll(".line").attr("d", function(d) {
@@ -271,11 +282,13 @@
     focus.select(".axis--x").call(xAxis);
   }
 
+  //Function for National Rate button
   function addNationalRate() {
     dataArray.push(dataAll["National Average"]);
     createGraph();
   }
 
+  //Function for Select All button
   function selectAll() {
     dataArray = [];
     context.selectAll(".line").remove();
@@ -289,6 +302,7 @@
     createGraph();
   }
 
+  //Function for Reset button
   function reset() {
     dataArray = [];
     context.selectAll(".line").remove();
@@ -298,6 +312,7 @@
     createGraph();
   }
 
+  //Gives each state their json color
   function getColor(state) {
     if (state == "Alabama" || state == "Arizona" || state == "Arkansas" || state == "Alaska" || state == "California" || "Colorado" || state == "Connecticut" || state == "Delaware" || state == "Florida" || state == "Georgia")
       return color1(state);
@@ -312,28 +327,30 @@
 
 
 <script type="text/javascript">
+  //map dimensions
   var w = 1000;
   var h = 300;
-  //Define map projection
+  //Create projection for map
   var projection = d3.geoAlbersUsa()
     .translate([w / 2, h / 2])
     .scale([600]);
-  //Define path generator
+  //Create path generator
   var statePath = d3.geoPath()
     .projection(projection);
-  //Create SVG element
+  //Initialize SVG
   var svgMap = d3.select("body")
     .append("svg")
     .attr("width", w)
     .attr("height", h)
-    //Load in GeoJSON data
+
+  //Grab colors from json file
   var color1 = d3.scaleOrdinal(d3.schemeCategory10);
   var color2 = d3.scaleOrdinal(d3.schemeCategory20);
   var color3 = d3.scaleOrdinal(d3.schemeCategory20b);
 
   d3.json("us-states.json", function(json) {
 
-    //Bind data and create one path per GeoJSON feature
+    //Use data to create a unique path for each feature
     svgMap.selectAll("path")
       .data(json.features)
       .enter()
@@ -360,6 +377,7 @@
       })
   });
 
+  //Fills states with their colors
   function mapColors() {
     svgMap.selectAll("path")
       .style("stroke", "black")
