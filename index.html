@@ -6,9 +6,11 @@
 <svg width="960" height="500"></svg>
 <br>
 
+
 <script>
   //Svg margins for graph and year slider
   var svgChart = d3.select("svg")
+    .classed("svg-content", true);
   margin = {
       top: 20,
       right: 20,
@@ -342,6 +344,7 @@
     .append("svg")
     .attr("width", w)
     .attr("height", h)
+    
 
   //Grab colors from json file
   var color1 = d3.scaleOrdinal(d3.schemeCategory10);
@@ -376,6 +379,8 @@
           });
       })
   });
+
+
 
   //Fills states with their colors
   function mapColors() {
