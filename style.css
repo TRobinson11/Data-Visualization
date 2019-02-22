@@ -28,15 +28,38 @@
     pointer-events: none;
   }
   
-  button {
-    position: relative;
-    left: 30px;
-    bottom: 320px;
-  }
-  
   .svg-content {
     display: inline-block;
     position: absolute;
     top: +50px;
     left: 850px;
   }
+  
+  .btn-group button {
+  position: relative;
+  left: 230px;
+  top: 470px;
+  background-color: gray; /* Green background */
+  border: .5px solid black; /* Green border */
+  color: black; /* White text */
+  padding: 8px 20px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: left; /* Float the buttons side by side */
+
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
