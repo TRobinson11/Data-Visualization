@@ -4,8 +4,12 @@
 <link rel="stylesheet" href="style.css">
 <title>Data-Visualization-GDP</title>
 <svg width="960" height="500"></svg>
-<br>
 
+<div class ="btn-group">
+<button onclick="addNationalRate()">National Rate</button>
+<button onclick="selectAll()">Select All</button>
+<button onclick="reset()">Reset</button>
+</div>
 
 <script>
   //Svg margins for graph and year slider
@@ -323,12 +327,7 @@
     else
       return color3(state);
   }
-</script>
 
-<br>
-
-
-<script type="text/javascript">
   //map dimensions
   var w = 800;
   var h = 450;
@@ -379,8 +378,6 @@
       })
   });
 
-
-
   //Fills states with their colors
   function mapColors() {
     svgMap.selectAll("path")
@@ -392,13 +389,3 @@
   }
 </script>
 
-<br>
-<button onclick="addNationalRate()">National Rate</button>
-<br>
-<br>
-<br>
-<button onclick="selectAll()">Select All</button>
-<br>
-<br>
-<br>
-<button onclick="reset()">Reset</button>
