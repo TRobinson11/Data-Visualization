@@ -281,55 +281,6 @@
       .call(brush.move);
   }
 
-  function brushed() {
-    var s = d3.event.selection || x2.range();
-    x.domain(s.map(x2.invert, x2));
-    focus.selectAll(".line").attr("d", function(d) {
-      return valueLine(d);
-    });
-    focus.select(".axis--x").call(xAxis);
-  }
-
-  //Function for National Average button
-  function addNationalAverage() {
-    stateArray.push(stateAll["National Average"]);
-    createGraph();
-  }
-
-  //Function for Select All button
-  function selectAll() {
-    stateArray = [];
-    context.selectAll(".line").remove();
-    focus.selectAll(".line").remove();
-    svgMap.selectAll("path")
-      .style("fill", "white");
-    for (var statename in stateAll) {
-      stateArray.push(stateAll[statename]);
-    }
-    mapColors();
-    createGraph();
-  }
-
-  //Function for Reset button
-  function reset() {
-    stateArray = [];
-    context.selectAll(".line").remove();
-    focus.selectAll(".line").remove();
-    svgMap.selectAll("path")
-      .style("fill", "white")
-    createGraph();
-  }
-
-  //Gives each state their json color
-  function getColor(state) {
-    if (state == "Alabama" || state == "Arizona" || state == "Arkansas" || state == "Alaska" || state == "California" || "Colorado" || state == "Connecticut" || state == "Delaware" || state == "Florida" || state == "Georgia")
-      return color1(state);
-    else if (state == "Hawaii" || state == "Idaho" || state == "Illinois" || state == "Indiana" || state == "Iowa" || state == "New Jersey" || state == "Kansas" || state == "Kentucky" || state == "Louisiana" || state == "Maine" || state == "Maryland" || state == "Massachusetts" || state == "Michigan" || state == "Minnesota" || state == "Mississippi" || state == "Missouri" || state == "Montana" || state == "Nebraska" || state == "Nevada" || state == "New Hampshire")
-      return color2(state);
-    else
-      return color3(state);
-  }
-
   //map dimensions
   var w = 800;
   var h = 450;
@@ -382,6 +333,16 @@
 
   });
 
+  //Gives each state their json color
+  function getColor(state) {
+    if (state == "Alabama" || state == "Arizona" || state == "Arkansas" || state == "Alaska" || state == "California" || "Colorado" || state == "Connecticut" || state == "Delaware" || state == "Florida" || state == "Georgia")
+      return color1(state);
+    else if (state == "Hawaii" || state == "Idaho" || state == "Illinois" || state == "Indiana" || state == "Iowa" || state == "New Jersey" || state == "Kansas" || state == "Kentucky" || state == "Louisiana" || state == "Maine" || state == "Maryland" || state == "Massachusetts" || state == "Michigan" || state == "Minnesota" || state == "Mississippi" || state == "Missouri" || state == "Montana" || state == "Nebraska" || state == "Nevada" || state == "New Hampshire")
+      return color2(state);
+    else
+      return color3(state);
+  }
+
   //Fills states with their colors
   function mapColors() {
     svgMap.selectAll("path")
@@ -390,5 +351,44 @@
       .style("fill", function(d) {
         return getColor(d.properties.name);
       });
+  }
+
+  function brushed() {
+    var s = d3.event.selection || x2.range();
+    x.domain(s.map(x2.invert, x2));
+    focus.selectAll(".line").attr("d", function(d) {
+      return valueLine(d);
+    });
+    focus.select(".axis--x").call(xAxis);
+  }
+
+  //Function for National Average button
+  function addNationalAverage() {
+    stateArray.push(stateAll["National Average"]);
+    createGraph();
+  }
+
+  //Function for Select All button
+  function selectAll() {
+    stateArray = [];
+    context.selectAll(".line").remove();
+    focus.selectAll(".line").remove();
+    svgMap.selectAll("path")
+      .style("fill", "white");
+    for (var statename in stateAll) {
+      stateArray.push(stateAll[statename]);
+    }
+    mapColors();
+    createGraph();
+  }
+
+  //Function for Reset button
+  function reset() {
+    stateArray = [];
+    context.selectAll(".line").remove();
+    focus.selectAll(".line").remove();
+    svgMap.selectAll("path")
+      .style("fill", "white")
+    createGraph();
   }
 </script>
