@@ -5,10 +5,10 @@
 <title>Data-Visualization-GDP</title>
 <svg width="960" height="500"></svg>
 
-<div class ="btn-group">
-<button onclick="addNationalRate()">National Rate</button>
-<button onclick="selectAll()">Select All</button>
-<button onclick="reset()">Reset</button>
+<div class="btn-group">
+  <button onclick="addNationalAverage()">National Rate</button>
+  <button onclick="selectAll()">Select All</button>
+  <button onclick="reset()">Reset</button>
 </div>
 
 <script>
@@ -70,6 +70,7 @@
       return y2(d.gdp);
     });
 
+  //Create box around graph
   svgChart.append("defs").append("clipPath")
     .attr("id", "clip")
     .append("rect")
@@ -86,6 +87,7 @@
     .attr("class", "context")
     .attr("transform", "translate(" + margin2.left + "," + margin2.top + ")");
 
+  //Tooltips for state name on graph hover
   var div = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
@@ -192,7 +194,7 @@
               return 5;
             }
           })
-          //Change opacity of US map when mousing over
+
         svgMap.selectAll("path")
           .style("fill-opacity", function(d2) {
             if (d1[0].state == d2.properties.name) {
@@ -288,8 +290,8 @@
     focus.select(".axis--x").call(xAxis);
   }
 
-  //Function for National Rate button
-  function addNationalRate() {
+  //Function for National Average button
+  function addNationalAverage() {
     dataArray.push(dataAll["National Average"]);
     createGraph();
   }
@@ -351,7 +353,8 @@
 
   d3.json("us-states.json", function(json) {
 
-    //Use data to create a unique path for each feature
+    //Use data to create a unique path for each feature and add data to graph
+    //when the feature is clicked
     svgMap.selectAll("path")
       .data(json.features)
       .enter()
@@ -376,6 +379,7 @@
               return 1;
           });
       })
+
   });
 
   //Fills states with their colors
@@ -388,4 +392,3 @@
       });
   }
 </script>
-
