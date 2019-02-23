@@ -5,6 +5,10 @@
 <title>Data-Visualization-GDP</title>
 <svg width="960" height="500"></svg>
 
+<div class="h1">
+  <h1>U.S. GDP By State Over 50 Years:</h1>
+</div>
+
 <div class="btn-group">
   <button onclick="addNationalAverage()">National Rate</button>
   <button onclick="selectAll()">Select All</button>
@@ -250,14 +254,6 @@
         .style("text-anchor", "middle")
         .text("GDP ( in millions )");
 
-      //Create and position graph title
-      svgChart.append("text")
-        .attr("x", (width / 2 + 30))
-        .attr("y", margin.top)
-        .attr("text-anchor", "middle")
-        .attr("font-size", "20px")
-        .attr("text-decoration", "underline")
-        .text("GDP by State Over 50 Years:");
     };
 
     focus.select(".axis--x")
