@@ -32,3 +32,8 @@ for reseting the visualization application.
       states were almost unaffected, while states such as Texas and California were heavily affected. 
       
 ![alt text](https://github.com/TRobinson11/Data-Visualization/blob/master/Project%201-data-1.png "Visualization Graph")
+
+
+#### References:
+
+U.S. Bureau of Economic Analysis: https://www.bea.gov/
