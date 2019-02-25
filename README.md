@@ -22,4 +22,4 @@ for reseting the visualization application.
 
 #### Notable Findings:
 
-! [alt text] (https://github.com/TRobinson11/Data-Visualization/blob/master/Project%201-data-1.png "Visualization Graph")
+![alt text](https://github.com/TRobinson11/Data-Visualization/blob/master/Project%201-data-1.png "Visualization Graph")
