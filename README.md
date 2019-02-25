@@ -22,11 +22,11 @@ for reseting the visualization application.
 
 #### Notable Findings:
 
- ##### 1. GDP slope from 1990 - 2000:
+   ##### 1. GDP slope from 1990 - 2000:
       The GDP increases more from 1990 to 2000, this is due to an extended period of economic prosperity that
       occured after the end of the 1990s recession and ended during the 2000s recession.
       
- ##### 2. GDP drop from 2008 - 2012:
+   ##### 2. GDP drop from 2008 - 2012:
       There is a large drop in state and overal GDP from 2008 to 2012, this is due to the recent recession
       however, some over the states weren't as effected as others. For instance, New York and many of the smaller
       states were almost unaffected, while states such as Texas and California were heavily affected. 
