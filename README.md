@@ -1,7 +1,7 @@
 # Project 1: Visualizing time series data
 
 
-#### Visualization: https://trobinson11.github.io/Data-Visualization/
+### Visualization: https://trobinson11.github.io/Data-Visualization/
 
 ### Overview:
 
@@ -18,3 +18,7 @@ for reseting the visualization application.
   
   2. The data also did not initially include the National Average, just the National Rate, so Excel was used
      to find the average of each year and the National Average values were created from this.
+     
+
+### Notable Findings:
+
