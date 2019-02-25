@@ -1,9 +1,9 @@
 # Project 1: Visualizing time series data
 
 
-## Visualization: https://trobinson11.github.io/Data-Visualization/
+### Visualization: https://trobinson11.github.io/Data-Visualization/
 
-## Overview:
+### Overview:
 
 This is a visualization of United States GDP by state from 1963 to 2017. The data was obtained from BEA.gov. 
 The application works by clicking on the states whose data you wish to see and viewing the data 
@@ -12,7 +12,7 @@ as a button for selecting all states, a button for just selecting the National A
 for reseting the visualization application. 
 
 
-## Data Formating: 
+### Data Formating: 
   1. The csv file was initialy horizontally configured, so Excel was used to reconfigure the data into a 
      vertical format.
   
