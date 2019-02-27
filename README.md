@@ -1,5 +1,6 @@
 # Project 1: Visualizing time series data
 
+#### Video: https://www.youtube.com/watch?v=Nm4mVwn-ocs
 
 #### Visualization: https://trobinson11.github.io/Data-Visualization/
 
